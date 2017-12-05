@@ -1,0 +1,165 @@
+,Hotel_Name,Hotel_Address,lat,lng,Reviewer_Average_Score,Total_No_Of_Reviewers,Non_Reviewer_Average_Score
+221808,Hotel VIU Milan,6 Via Aristotile Fioravanti Garibaldi Station 20154 Milan Italy,45.488764,9.183057,8.80344827586,58,9.08666666667
+268100,Maison Borella,Alzaia Naviglio Grande 8 Navigli 20144 Milan Italy,45.4521067,9.1758135,9.35769230769,130,8.64109589041
+285876,Hotel Regina,Bergara 2 4 Eixample 08002 Barcelona Spain,41.3858891,2.1681652,8.48618843683,934,8.53862275449
+302326,Worldhotel Cristoforo Colombo,Corso Buenos Aires 3 Milan City Center 20124 Milan Italy,45.4758842,9.205791,8.5384765625,512,8.71170212766
+302838,IH Hotels Milano Puccini,Corso Buenos Aires 33 Central Station 20124 Milan Italy,45.4794406,9.2096756,7.572,175,7.65157894737
+303013,Best Western Hotel City,Corso Buenos Aires 42 5 Central Station 20124 Milan Italy,45.4858877,9.2042827,8.52832369942,173,8.13571428571
+303186,Ch teau Monfort Relais Ch teaux,Corso Concordia 1 Milan City Center 20129 Milan Italy,45.4682358,9.2073799,8.9731277533,227,9.03836477987
+303413,Palazzo Parigi Hotel Grand Spa Milano,Corso Di Porta Nuova 1 Milan City Center 20121 Milan Italy,45.473348,9.1910733,9.4106557377,122,9.13928571429
+303535,Hotel Lloyd,Corso di Porta Romana 48 Milan City Center 20122 Milan Italy,45.4580781,9.1924205,7.28578199052,211,7.8674796748
+303746,Hotel Romana Residence,Corso di Porta Romana 64 Milan City Center 20122 Milan Italy,45.4572218,9.1937008,7.6248502994,334,8.10628272251
+304080,Hotel Crivi s,Corso di Porta Vigentina 46 Milan City Center 20122 Milan Italy,45.4529643,9.1962217,7.65405405405,74,8.38787878788
+304154,Hotel Galileo,Corso Europa 9 Milan City Center 20122 Milan Italy,45.4642651,9.1960569,7.60945945946,222,8.50280373832
+304376,Carlyle Brera Hotel,Corso Garibaldi 84 Milan City Center 20121 Milan Italy,45.4769923,9.1844899,8.24592274678,233,8.13920454545
+304609,Boscolo Milano Autograph Collection,Corso Giacomo Matteotti 4 6 Milan City Center 20121 Milan Italy,45.46676,9.194293,7.65897435897,195,8.28524590164
+304804,Mokinba Hotels King,Corso Magenta 19 Milan City Center 20123 Milan Italy,45.4656023,9.1778675,6.97960526316,152,7.787
+304956,Qualys Hotel Nasco,Corso Sempione 69 Fiera Milano City 20149 Milan Italy,45.4848809,9.1596461,8.25194174757,206,8.09405940594
+305162,Enterprise Hotel Design Boutique,Corso Sempione 91 Fiera Milano City 20149 Milan Italy,45.4867005,9.1575137,8.75381355932,236,8.00901639344
+325890,IH Hotels Milano Ambasciatori,Galleria Del Corso 3 Milan City Center 20122 Milan Italy,45.4644348,9.1952727,7.45880503145,318,8.5695035461
+366733,NH Collection Milano President,Largo Augusto 10 Milan City Center 20122 Milan Italy,45.4630685,9.1979367,8.67815750371,673,8.73693467337
+367406,Hotel Dieci,Largo Rio de Janeiro 12 Citt Studi 20133 Milan Italy,45.4738012,9.2239702,7.74,50,8.58648648649
+404128,ME Milan Il Duca,Piazza della Repubblica 13 Central Station 20124 Milan Italy,45.4793852,9.1961308,9.18591549296,142,9.22150537634
+404270,Hotel Principe Di Savoia,Piazza Della Repubblica 17 Central Station 20124 Milan Italy,45.479888,9.1962982,9.11428571429,280,9.08340248963
+404550,The Westin Palace,Piazza della Repubblica 20 Central Station 20124 Milan Italy,45.4790357,9.199028,8.31741573034,178,8.78017241379
+404728,Glam Milano,Piazza Duca D Aosta 4 6 Central Station 20124 Milan Italy,45.4838504,9.2034067,8.71588014981,1335,8.97574334898
+406063,Excelsior Hotel Gallia Luxury Collection Hotel,Piazza Duca D Aosta 9 Central Station 20124 Milan Italy,45.4857027,9.2020127,9.46838709677,310,9.28540540541
+406373,Rosa Grand Milano Starhotels Collezione,Piazza Fontana 3 Milan City Center 20122 Milan Italy,45.4638223,9.1940273,8.42703804348,736,8.82611012433
+407109,TownHouse 12,Piazza Gerusalemme 12 Sempione 20154 Milan Italy,45.4844028,9.1673528,7.875,64,8.65384615385
+407173,Hotel Mozart,Piazza Gerusalemme 6 Sempione 20154 Milan Italy,45.4834133,9.1666361,7.9435546875,512,8.08947368421
+407685,Hotel Dei Cavalieri,Piazza Giuseppe Missori 1 Milan City Center 20123 Milan Italy,45.4608547,9.1886179,8.29258649094,607,8.61661129568
+408292,Best Western Plus Hotel Galles,Piazza Lima 2 Central Station 20124 Milan Italy,45.4805847,9.2117326,8.41223491028,613,8.68053691275
+408905,Starhotels Anderson,Piazza Luigi di Savoia 20 Central Station 20124 Milan Italy,45.4852549,9.2069501,8.76571428571,490,8.57803030303
+409395,Hotel Michelangelo,Piazza Luigi di Savoia 6 Central Station 20124 Milan Italy,45.4845143,9.2057532,8.41717011129,629,8.36887608069
+410024,Hotel Mercure Milano Centro,Piazza Oberdan 12 Milan City Center 20129 Milan Italy,45.4747809,9.2059385,8.71923076923,78,7.87021276596
+410102,NYX Milan,Piazza Quattro Novembre 3 Central Station 20124 Milan Italy,45.4868745,9.2018406,8.59555555556,180,9.1041322314
+410282,The Yard Milano,Piazza XXIV Maggio 8 Milan City Center 20123 Milan Italy,45.453152,9.179172,9.29281767956,181,9.03689320388
+410463,Hotel Sunflower,Piazzale Lugano 10 Bovisa 20158 Milan Italy,45.498503,9.1664111,7.14117647059,51,8.30909090909
+433920,Hotel Regina,Rooseveltplatz 15 09 Alsergrund 1090 Vienna Austria,48.2163343,16.3595536,8.48618843683,934,7.91212121212
+449597,Room Mate Giulia,Silvio Pellico 4 Milan City Center 20121 Milan Italy,45.4651371,9.1895249,9.39596928983,521,9.1031496063
+469969,Hotel Tocq,Via A de Tocqueville 7 D Garibaldi Station 20154 Milan Italy,45.4828787,9.186346,8.74117647059,34,8.12
+470003,The Square Milano Duomo,Via Albricci 2 4 Milan City Center 20122 Milan Italy,45.4608604,9.1890215,9.07185761958,899,8.86896551724
+470902,Mandarin Oriental Milan,Via Andegari 9 Milan City Center 20121 Milan Italy,45.4694772,9.1909325,9.27058823529,34,9.12727272727
+470936,Art Hotel Navigli,Via Angelo Carlo Fumagalli 4 Navigli 20143 Milan Italy,45.4501306,9.1696481,8.77486338798,366,8.2783919598
+471442,Brunelleschi Hotel,Via Baracchini 12 Milan City Center 20123 Milan Italy,45.461177,9.191047,8.13713235294,544,8.58488745981
+471986,Camperio House Suites Apartments,Via Camperio 9 Milan City Center 20123 Milan Italy,45.466598,9.183064,9.08278145695,151,8.48805970149
+472137,TownHouse 33,Via Carlo Goldoni 33 Citt Studi 20129 Milan Italy,45.4693349,9.2142383,8.42033898305,59,7.86666666667
+472196,Hotel Regina,Via Cesare Correnti 13 Milan City Center 20123 Milan Italy,45.459485,9.179511,8.48618843683,934,4.9
+472256,Hotel Capitol Milano,Via Cimarosa 6 Fiera Milano City 20144 Milan Italy,45.4661781,9.1588367,8.12424242424,66,8.49661016949
+472322,Hotel Clerici,Via Clerici 11 Milan City Center 20121 Milan Italy,45.4667717,9.1871001,8.91081081081,111,9.20625
+472433,UNA Hotel Cusani,Via Cusani 13 Milan City Center 20121 Milan Italy,45.4684251,9.1834161,8.8375,264,8.74375
+472697,Hotel Pierre Milano,Via De Amicis 32 Milan City Center 20123 Milan Italy,45.4595203,9.1770004,7.30895522388,67,7.79090909091
+472764,MiHotel,Via Dei Fontanili 26 Ripamonti Corvetto 20141 Milan Italy,45.4405621,9.1921165,8.24545454545,22,7.1
+472786,Hotel Milano Scala,Via dell Orso 7 Milan City Center 20121 Milan Italy,45.4689376,9.1868891,8.89011406844,263,8.62313432836
+473049,IH Hotels Milano Gioia,Via della Giustizia 10 D Bicocca Zara 20125 Milan Italy,45.49952,9.206138,7.32080378251,423,7.84298642534
+473472,Style Hotel,Via delle Erbe 1 Milan City Center 20121 Milan Italy,45.4708973,9.1840992,7.98571428571,70,6.83043478261
+473542,Andreola Central Hotel,Via Domenico Scarlatti 24 Central Station 20124 Milan Italy,45.4836517,9.2078581,8.3845,200,8.14056603774
+473742,Hotel Bristol,Via Domenico Scarlatti 32 Central Station 20124 Milan Italy,45.4845769,9.2065256,8.07260273973,73,7.85675675676
+473815,Admiral Hotel,Via Domodossola 16 Fiera Milano City 20145 Milan Italy,45.480515,9.160063,7.13076923077,26,7.61428571429
+473841,UNA Hotel Century,Via Fabio Filzi 25 B Central Station 20124 Milan Italy,45.4841371,9.2001623,8.6812987013,385,8.46026785714
+474226,Hotel Marconi,Via Fabio Filzi 3 Central Station 20124 Milan Italy,45.4868744,9.2018407,8.05546875,256,8.74397163121
+474482,Hotel Cavour,Via Fatebenefratelli 21 Milan City Center 20121 Milan Italy,45.4726942,9.1943911,8.447,400,8.59098712446
+474882,Best Western Plus Hotel Felice Casati,Via Felice Casati 18 Central Station 20124 Milan Italy,45.4787357,9.2041131,8.35695364238,302,8.47471264368
+475184,Nu Hotel,Via Feltre 19 B Citt Studi 20132 Milan Italy,45.4911829,9.2393614,8.69565217391,115,9.2671875
+475299,Hotel Magna Pars Small Luxury Hotels of the World,Via Forcella 6 Navigli 20144 Milan Italy,45.4524879,9.1669784,8.77831325301,83,9.368
+475382,Mercure Milano Regency,Via G Arimondi 12 Sempione 20155 Milan Italy,45.4897688,9.1549451,8.1,27,7.13157894737
+475409,Hotel Auriga,Via G B Pirelli 7 Central Station 20124 Milan Italy,45.4858877,9.2042827,8.07751937984,258,8.4796460177
+475667,Hotel Portello Gruppo Minihotel,Via G Silva 12 Fiera Milano City 20149 Milan Italy,45.4802503,9.1494925,7.77887323944,71,7.82459016393
+475738,Idea Hotel Milano San Siro,Via Gaetano Airaghi 125 20153 Milan Italy,45.4720654,9.0777871,6.5800856531,467,7.55240174672
+476205,Windsor Hotel Milano,Via Galileo Galilei 2 Central Station 20124 Milan Italy,45.4794587,9.1951427,8.28597701149,435,8.94975845411
+476640,Four Points Sheraton Milan Center,Via Gerolamo Cardano 1 Central Station 20124 Milan Italy,45.4851889,9.198015,8.26691176471,136,8.08026315789
+476776,Four Seasons Hotel Milano,Via Ges 6 8 Milan City Center 20121 Milan Italy,45.469339,9.195108,8.78863636364,44,9.39782608696
+476820,IH Hotels Milano Watt 13,Via Giacomo Watt 13 Famagosta 20143 Milan Italy,45.443791,9.152947,7.45537634409,186,7.91647058824
+477006,LaGare Hotel Milano Centrale MGallery by Sofitel,Via Gian Battista Pirelli 20 Central Station 20124 Milan Italy,45.484237,9.198858,8.60280561122,499,8.87137809187
+477505,Barcel Milan,Via Giorgio Stephenson 55 20157 Milan Italy,45.51152,9.1241306,7.71845493562,233,8.8
+477738,UNA Hotel Scandinavia,Via Giovanni Battista Fauch Sempione 20154 Milan Italy,45.4859983,9.1637603,8.58529411765,68,8.31290322581
+477806,Acca Palace,Via Giovanni Nicotera 9 Niguarda 20161 Milan Italy,45.5099969,9.1739942,8.59090909091,209,8.3137254902
+478015,Sina De La Ville,Via Hoepli 6 Milan City Center 20121 Milan Italy,45.465957,9.192297,8.17545787546,273,8.24379084967
+478288,UNA Hotel Mediterraneo,Via L Muratori 14 Porta Romana 20135 Milan Italy,45.451873,9.20548,7.85890410959,73,8.615
+478361,Hotel La Spezia Gruppo MiniHotel,Via La Spezia 25 Famagosta 20142 Milan Italy,45.4408963,9.1728003,7.71212121212,33,9.38695652174
+479801,NH Milano Machiavelli,Via Lazzaretto 5 Central Station 20124 Milan Italy,45.4776167,9.2016244,8.45055555556,180,8.30520833333
+479981,Hotel Sanpi Milano,Via Lazzaro Palazzi 18 Central Station 20124 Milan Italy,45.4777623,9.203169,8.60522875817,153,8.2484375
+480134,Best Western Hotel Ascot,Via Lentasio 3 Milan City Center 20122 Milan Italy,45.4580137,9.1913676,7.55254237288,236,7.9023255814
+480370,Ca Bianca Hotel Corte Del Naviglio,Via Lodovico Il Moro 117 Navigli 20143 Milan Italy,45.443502,9.1377081,7.39012345679,81,8.46060606061
+480451,IH Hotels Milano Lorenteggio,Via Lorenteggio 278 Lorenteggio 20152 Milan Italy,45.4436132,9.1161094,6.71226993865,163,7.47373737374
+480614,Hilton Garden Inn Milan North,Via Lucio Giunio Columella 36 Distretto Viale Monza 20128 Milan Italy,45.5161671,9.2272778,8.2725,440,8.35307017544
+481054,DoubleTree By Hilton Milan,Via Ludovico Di Breme 77 Certosa 20156 Milan Italy,45.5005657,9.1383663,7.70243902439,41,8.915
+481095,Hilton Milan,Via Luigi Galvani 12 Central Station 20124 Milan Italy,45.4862032,9.200322,8.18326180258,233,8.22727272727
+481328,Hotel Wagner,Via M Buonarroti 13 Fiera Milano City 20149 Milan Italy,45.4684949,9.1550355,8.43,10,7.57
+481338,Hotel Boutique Duomo,Via Mac Mahon 45 Sempione 20155 Milan Italy,45.4909585,9.1614268,7.25967741935,62,7.93823529412
+481400,Hotel Manin,Via Manin 7 Milan City Center 20121 Milan Italy,45.4739801,9.1960671,8.33169642857,224,8.48742857143
+481624,Grand Hotel et de Milan,Via Manzoni 29 Milan City Center 20121 Milan Italy,45.4699058,9.1925024,8.99743589744,78,9.22307692308
+481702,Armani Hotel Milano,Via Manzoni 31 Milan City Center 20121 Milan Italy,45.470532,9.19302,9.13076923077,156,9.27058823529
+481858,Meli Milano,Via Masaccio 19 Fiera Milano City 20149 Milan Italy,45.4792738,9.1459546,7.71588785047,107,9.02674418605
+481965,Hotel Mediolanum,Via Mauro Macchi 1 Central Station 20124 Milan Italy,45.4813423,9.2039494,8.46333333333,120,8.28307692308
+482085,UNA Maison Milano,Via Mazzini 4 Milan City Center 20123 Milan Italy,45.4633289,9.1884242,9.321875,320,9.24736842105
+482405,Novotel Milano Linate Aeroporto,Via Mecenate 121 20138 Milan Italy,45.4481878,9.2570459,7.99576719577,189,8.00761904762
+482594,Hotel Carrobbio,Via Medici 3 Milan City Center 20123 Milan Italy,45.4606597,9.1810947,7.93740458015,131,8.1223880597
+482725,NH Milano Grand Hotel Verdi,Via Melchiorre Gioia 6 Garibaldi Station 20124 Milan Italy,45.4814923,9.192023,8.19152542373,177,8.21666666667
+482902,Crowne Plaza Milan City,Via Melchiorre Gioia 73 Central Station 20124 Milan Italy,45.4896727,9.2006406,8.4178343949,157,8.60661157025
+483059,Leonardo Hotel Milan City Center,Via Messina 10 Sempione 20154 Milan Italy,45.482442,9.1756982,8.19333333333,135,8.21111111111
+483194,Petit Palais Hotel De Charme,Via Molino Delle Armi 1 Angolo Corso Italia Milan City Center 20123 Milan Italy,45.4559784,9.1871812,8.72173913043,69,8.08648648649
+483263,Mokinba Hotels Montebianco,Via Monte Rosa 90 Fiera Milano City 20149 Milan Italy,45.4788051,9.1446276,7.39795918367,49,7.61627906977
+483312,Hotel Mentana,Via Morigi 2 Milan City Center 20123 Milan Italy,45.4622972,9.1814695,7.59928057554,139,6.99855072464
+483451,Atahotel Contessa Jolanda,Via Murat 21 Niguarda 20159 Milan Italy,45.4984161,9.1904375,7.39831932773,119,7.65921052632
+483570,Hotel Berna,Via Napo Torriani 18 Central Station 20124 Milan Italy,45.4826692,9.2034371,9.33982889734,1052,8.81692708333
+484622,Best Western Atlantic Hotel,Via Napo Torriani 24 Central Station 20124 Milan Italy,45.4830211,9.2033246,8.3568627451,306,8.75764705882
+484928,LHP Hotel Napoleon,Via Ozanam 12 Citt Studi 20129 Milan Italy,45.4802415,9.2131919,8.12839506173,81,8.68611111111
+485009,Ibis Styles Milano Palmanova,Via Palmanova 153 20132 Milan Italy,45.5045259,9.246461,6.38333333333,12,7.01666666667
+485021,Mokinba Hotels Baviera,Via Panfilo Castaldi 7 Central Station 20124 Milan Italy,45.4782808,9.1997755,7.44892086331,139,8.11058823529
+485160,Hotel Vittoria,Via Pietro Calvi 32 P Vittoria 20129 Milan Italy,45.463135,9.2102,8.14204545455,88,8.02448979592
+485248,Starhotels Business Palace,Via Pietro Gaggia 3 Ripamonti Corvetto 20139 Milan Italy,45.43784,9.230901,7.71071428571,504,8.82936802974
+485752,Hotel Mercure Milano Solari,Via Pietro Orseolo 1 Navigli 20144 Milan Italy,45.4565757,9.1684824,8.285,80,8.32068965517
+485832,ADI Hotel Poliziano Fiera,Via Poliziano 11 Sempione 20154 Milan Italy,45.4837173,9.1649371,8.04299065421,107,8.63076923077
+485939,Bulgari Hotel Milano,Via Privata Fratelli Gabba 7 B Milan City Center 20121 Milan Italy,45.4701334,9.1897405,9.25294117647,17,9.171875
+485956,Best Western Madison Hotel,Via Privata Leopoldo Gasparotto 8 Central Station 20124 Milan Italy,45.4881471,9.2016609,8.49468085106,376,8.1918128655
+486332,The Hub Hotel,Via Privata Polonia 10 20157 Milan Italy,45.5138582,9.1194759,7.28205128205,78,8.47619047619
+486410,Hotel Silver,Via Riccardo Lombardi 9 11 20153 Milan Italy,45.4589731,9.0687506,8.15384615385,26,8.75555555556
+486436,Colombia,Via Roberto Lepetit 15 Central Station 20124 Milan Italy,45.4829817,9.2041911,8.16733333333,150,8.56891891892
+486586,Antares Hotel Rubens,Via Rubens 21 San Siro 20148 Milan Italy,45.4670579,9.1427822,8.47168141593,113,8.55925925926
+486699,STRAF a Member of Design Hotels ,Via San Raffaele 3 Milan City Center 20121 Milan Italy,45.465237,9.191247,8.36869918699,246,8.14910714286
+486945,Sina The Gray,Via San Raffaele 6 Milan City Center 20121 Milan Italy,45.4655368,9.1914986,8.14193548387,93,8.63409090909
+487038,Antica Locanda Dei Mercanti,Via San Tomaso 6 Milan City Center 20121 Milan Italy,45.467298,9.1846982,9.14634146341,82,8.7
+487120,Palazzo Segreti,Via San Tomaso 8 b Milan City Center 20121 Milan Italy,45.4672309,9.184154,8.50294117647,68,9.5
+487188,Hotel Santa Marta Suites,Via Santa Marta 4 Milan City Center 20123 Milan Italy,45.4630441,9.183607,9.3395480226,177,8.8140625
+487365,TH Street Duomo,Via Santa Radegonda 14 Milan City Center 20121 Milan Italy,45.4657568,9.1916674,7.6,33,9.52
+487398,Uptown Palace,Via Santa Sofia 10 Milan City Center 20122 Milan Italy,45.4574655,9.1919138,8.39977678571,448,8.63815384615
+487846,Hotel Manzoni,Via Santo Spirito 20 Milan City Center 20121 Milan Italy,45.470238,9.195347,9.26990291262,206,9.06666666667
+488052,Senato Hotel Milano,Via Senato 22 Milan City Center 20121 Milan Italy,45.4714062,9.1965303,8.84754901961,204,9.26810344828
+488256,Baglioni Hotel Carlton The Leading Hotels of the World,Via Senato 5 Milan City Center 20121 Milan Italy,45.4691663,9.1984454,8.72875816993,153,8.9101010101
+488409,Hotel Da Vinci,Via Senigallia 6 20161 Milan Italy,45.5331372,9.1711019,7.79014384656,1877,8.74336283186
+490286,TownHouse Duomo,Via Silvio Pellico 2 Milan City Center 20121 Milan Italy,45.4648822,9.1893265,8.43823529412,68,8.34090909091
+490354,TownHouse Galleria,Via Silvio Pellico 8 Milan City Center 20121 Milan Italy,45.4657842,9.1895321,8.14967320261,153,8.48852459016
+490507,Hotel Spadari Al Duomo,Via Spadari 11 Milan City Center 20123 Milan Italy,45.463579,9.1869092,9.44362139918,243,8.951
+490750,Starhotels Ritz,Via Spallanzani 40 Central Station 20129 Milan Italy,45.4779041,9.2094965,7.92787136294,653,8.41841359773
+491403,Ramada Plaza Milano,Via Stamira D Ancona 27 Distretto Viale Monza 20127 Milan Italy,45.501946,9.2277569,8.11502890173,346,8.88571428571
+491749,NH Milano Touring,Via Tarchetti 2 Milan City Center 20121 Milan Italy,45.4769167,9.196665,8.21455108359,646,8.6747706422
+492395,AC Hotel Milano a Marriott Lifestyle Hotel,Via Tazzoli 2 Garibaldi Station 20154 Milan Italy,45.4851799,9.1831189,8.20277777778,72,8.425
+492467,Hotel Tiziano Park Vita Parcour Gruppo MiniHotels,Via Tiziano 6 Fiera Milano City 20145 Milan Italy,45.4709657,9.1566242,8.07213114754,61,9.27083333333
+492528,Park Hyatt Milano,Via Tommaso Grossi 1 Milan City Center 20121 Milan Italy,45.4654912,9.1889612,9.05391304348,115,9.15888888889
+492643,Nhow Milan,Via Tortona 35 Navigli 20144 Milan Italy,45.4510425,9.1606536,8.7196969697,198,8.4537037037
+492841,Holiday Inn Milan Garibaldi Station,Via Ugo Bassi 1 A Ang Via C Farini Garibaldi Station 20159 Milan Italy,45.488764,9.183057,8.2612244898,49,8.34222222222
+492890,Milan Suite Hotel,Via Varesina 124 Certosa 20156 Milan Italy,45.5000245,9.1428722,8.72919708029,137,8.64202898551
+493027,Klima Hotel Milano Fiere,Via Venezia Giulia 8 20157 Milan Italy,45.5147974,9.116606,7.78990825688,109,9.03157894737
+493136,Radisson Blu Hotel Milan,Via Villapizzone 24 Certosa 20156 Milan Italy,45.500667,9.1445874,8.35381165919,223,7.955
+493359,Milan Marriott Hotel,Via Washington 66 Fiera Milano City 20146 Milan Italy,45.4611287,9.1542675,7.35945945946,74,7.89180327869
+493433,ADI Doria Grand Hotel,Viale Andrea Doria 22 Central Station 20124 Milan Italy,45.4853717,9.2115837,8.38843537415,147,8.1115942029
+493580,Starhotels Echo,Viale Andrea Doria 4 Central Station 20124 Milan Italy,45.4847398,9.2072916,8.92327150084,593,8.8635883905
+494173,Bianca Maria Palace Hotel,Viale Bianca Maria 4 Milan City Center 20129 Milan Italy,45.4635445,9.2068649,8.99711538462,520,9.00649350649
+494693,Hotel D Este,Viale Bligny 23 Milan City Center 20136 Milan Italy,45.4510397,9.1920911,7.91530612245,98,8.28854166667
+494791,Hotel Liberty,Viale Bligny 56 Milan City Center 20136 Milan Italy,45.4508673,9.1948659,5.12153846154,65,5.39615384615
+494856,Best Western Hotel Mirage,Viale Certosa 104 106 Certosa 20156 Milan Italy,45.4947129,9.1418864,8.45060240964,83,8.58541666667
+494939,Hotel Raffaello,Viale Certosa 108 Certosa 20156 Milan Italy,45.494861,9.141551,7.67901234568,81,8.875
+495020,Antares Hotel Accademia,Viale Certosa 68 Certosa 20155 Milan Italy,45.4921089,9.1476806,8.53,30,8.29166666667
+495050,Starhotels Tourist,Viale Fulvio Testi 300 Bicocca Zara 20126 Milan Italy,45.5266395,9.2131549,8.325,232,8.87592592593
+495282,Grand Visconti Palace,Viale Isonzo 14 Porta Romana 20135 Milan Italy,45.4471408,9.2070051,8.39787234043,188,8.93333333333
+495470,Best Western Hotel Major,Viale Isonzo 2 Porta Romana 20135 Milan Italy,45.4472099,9.2090967,8.10684931507,73,8.08837209302
+495543,Hotel Lombardia,Viale Lombardia 74 76 Citt Studi 20131 Milan Italy,45.4872511,9.2237385,7.63454545455,55,8.25609756098
+495598,NH Milano Palazzo Moscova,Viale Monte Grappa 12 Garibaldi Station 20124 Milan Italy,45.480968,9.189977,8.2128440367,109,8.18133333333
+495707,Best Western Antares Hotel Concorde,Viale Monza 132 Distretto Viale Monza 20127 Milan Italy,45.502453,9.2218364,8.15798319328,119,7.96981132075
+495826,Atahotel Linea Uno,Viale Monza 139 Distretto Viale Monza 20125 Milan Italy,45.50054,9.2208089,7.96134453782,119,8.08518518519
+495945,Best Western Hotel Astoria,Viale Murillo 9 Fiera Milano City 20149 Milan Italy,45.4725167,9.1439198,8.46216216216,37,6.69285714286
+495982,Sheraton Diana Majestic,Viale Piave 42 Milan City Center 20129 Milan Italy,45.4736557,9.2066824,7.62289156627,83,8.38936170213
+496065,Hotel degli Arcimboldi,Viale Sarca 336 Bicocca Zara 20125 Milan Italy,45.5257221,9.2150033,8.08658318426,1118,8.72380106572
+497183,Novotel Milano Nord Ca Granda,Viale Suzzani 13 Bicocca Zara 20162 Milan Italy,45.506502,9.1965192,7.5813559322,59,8.21612903226
+497242,Best Western Hotel St George,Viale Tunisia 9 Central Station 20124 Milan Italy,45.4770906,9.2054208,8.07289377289,273,8.15606060606

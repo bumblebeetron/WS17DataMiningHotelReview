@@ -1,0 +1,211 @@
+,Hotel_Name,Hotel_Address,lat,lng,Reviewer_Average_Score,Total_No_Of_Reviewers,Non_Reviewer_Average_Score
+117428,Sansi Diputacio,234 Diputacio Eixample 08007 Barcelona Spain,41.3882234,2.1644551,7.86315789474,57,7.66666666667
+129312,The One Barcelona GL,277 Carrer de Proven a Eixample 08037 Barcelona Spain,41.3961448,2.1631674,9.42235294118,85,9.35957446809
+269113,Catalonia Port,Ample 1 Pla a Duc de Medinaceli Ciutat Vella 08002 Barcelona Spain,41.378751,2.17873,9.1191011236,178,8.20210526316
+270039,Eurostars Angli,Angli 60 Sarri St Gervasi 08017 Barcelona Spain,41.4031654,2.1231637,8.23766233766,77,8.396
+272345,Catalonia Catedral,Arcs 10 Ciutat Vella 08002 Barcelona Spain,41.3846637,2.1740902,9.24590163934,488,9.10931174089
+273131,Axel Hotel Barcelona Urban Spa Adults Only,Aribau 33 Eixample 08011 Barcelona Spain,41.3873478,2.1603987,8.07558139535,602,7.83085501859
+273733,Cram,Aribau 54 Eixample 08011 Barcelona Spain,41.3880549,2.1599602,8.70880503145,159,8.168
+275588,Room Mate Gerard,Ausi s Marc 34 Eixample 08010 Barcelona Spain,41.3919114,2.1765438,8.69285714286,14,9.28666666667
+275602,H10 Marina Barcelona,Avenida Bogatell 64 68 Sant Mart 08005 Barcelona Spain,41.393227,2.1927427,8.11886792453,318,8.35357142857
+275920,Barcelona Princess,Avenida Diagonal 1 Sant Mart 08019 Barcelona Spain,41.4109715,2.2186535,8.21928651059,897,8.48282828283
+276817,Novotel Barcelona City,Avenida Diagonal 201 Sant Mart 08018 Barcelona Spain,41.4038774,2.1911894,8.28649635036,274,8.61448275862
+277091,The Gates Diagonal Barcelona,Avenida Diagonal 205 Sant Mart 08018 Barcelona Spain,41.4036219,2.1902808,8.0668989547,287,7.86666666667
+277378,AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,Avenida Diagonal 555 Les Corts 08029 Barcelona Spain,41.3899609,2.135684,8.39821428571,56,8.91388888889
+277434,Wilson Boutique Hotel,Avenida Diagonal 568 Sarri St Gervasi 08021 Barcelona Spain,41.3944029,2.150194,8.78275862069,145,8.50952380952
+277579,NH Hesperia Barcelona Presidente,Avenida Diagonal 570 Sarri St Gervasi 08021 Barcelona Spain,41.3941338,2.1489569,8.4225,120,8.99444444444
+277699,Hilton Barcelona,Avenida Diagonal 589 591 Les Corts 08014 Barcelona Spain,41.388682,2.1316368,8.31555555556,45,7.88913043478
+277744,Vincci Mae,Avenida Diagonal 596 Sarri St Gervasi 08021 Barcelona Spain,41.3933943,2.1461315,8.99528301887,106,8.70196078431
+277850,Fairmont Rey Juan Carlos I,Avenida Diagonal 661 671 Les Corts 08028 Barcelona Spain,41.3835246,2.1096141,8.25583756345,197,8.38285714286
+278047,Pullman Barcelona Skipper,Avenida Litoral 10 Ciutat Vella 08005 Barcelona Spain,41.3860183,2.19473,8.53956834532,278,8.68442211055
+278325,Hotel Ciutadella Barcelona,Avenida Marqu s de l Argentera 4 Ciutat Vella 08003 Barcelona Spain,41.3837583,2.1846933,8.31505376344,93,7.71538461538
+278418,Catalonia Atenas,Avenida Meridiana 151 Sant Mart 08026 Barcelona Spain,41.4110056,2.1866009,8.06899151744,1061,7.5685767098
+279479,Tryp Barcelona Apolo Hotel,Avenida Paralelo 57 59 Sants Montju c 08004 Barcelona Spain,41.3747031,2.1707106,7.49608938547,179,8.53513513514
+279658,Sansi Pedralbes,Avenida Pearson 1 3 Les Corts 08034 Barcelona Spain,41.39367,2.1115418,8.37333333333,30,8.4347826087
+279688,Crowne Plaza Barcelona Fira Center,Avenida Rius y Taulet 1 3 Sants Montju c 08004 Barcelona Spain,41.3725246,2.1540788,9.00166666667,120,8.35185185185
+279808,Gran Hotel Torre Catalunya,Avenida Roma 2 4 Sants Montju c 08014 Barcelona Spain,41.3795572,2.1425457,8.69005235602,382,8.1623255814
+280190,H10 Itaca,Avenida Roma 22 30 Eixample 08015 Barcelona Spain,41.3810311,2.1455516,8.0272,125,8.55409836066
+280315,Hotel Abbot,Avenida Roma 23 Eixample 08029 Barcelona Spain,41.3815028,2.1449138,7.55128205128,39,7.164
+280354,Sercotel Amister Art Hotel Barcelona,Avenida Roma 93 95 Eixample 08029 Barcelona Spain,41.3844072,2.1514584,8.47875,80,8.52931034483
+280434,Melia Barcelona Sarri ,Avenida Sarri 50 Les Corts 08029 Barcelona Spain,41.391058,2.141706,8.16448598131,107,8.02333333333
+280541,ABaC Restaurant Hotel Barcelona GL Monumento,Avenida Tibidabo 1 Sarri St Gervasi 08022 Barcelona Spain,41.4106944,2.136294,8.46451612903,31,9.84
+280572,Col n Hotel Barcelona,Avinguda Catedral 7 Ciutat Vella 08002 Barcelona Spain,41.3849613,2.1756666,8.87297979798,396,8.96294117647
+280968,Hotel SB Icaria Barcelona,Avinguda Icaria 195 Sant Mart 08005 Barcelona Spain,41.3935591,2.1993915,8.11835518474,839,7.77380410023
+281807,Hotel Barcelona Universal,Avinguda Paral lel 76 78 Ciutat Vella 08001 Barcelona Spain,41.375237,2.1684058,8.95217391304,253,8.45315315315
+282060,Aparthotel Arai 4 Superior,Avinyo 30 Ciutat Vella 08002 Barcelona Spain,41.3807517,2.1772425,9.44,205,8.92727272727
+282265,NH Collection Barcelona Podium,Bail n 4 6 Eixample 08010 Barcelona Spain,,,9.01780821918,146,8.72083333333
+282411,Hotel Ronda Lesseps,Ballester 77 81 Gr cia 08023 Barcelona Spain,41.408641,2.1478143,7.61686746988,83,6.98139534884
+282494,Hotel Barcelona Center,Balmes 103 105 Eixample 08008 Barcelona Spain,41.3917169,2.1592614,8.47007874016,254,8.2609375
+282748,Olivia Balmes Hotel,Balmes 117 Eixample 08008 Barcelona Spain,41.392095,2.158493,9.41039215686,510,9.06926229508
+283258,Catalonia Diagonal Centro,Balmes 142 146 Eixample 08008 Barcelona Spain,41.3938632,2.1568039,8.00365853659,246,8.26573426573
+284867,AC Hotel Victoria Suites a Marriott Lifestyle Hotel,Beltran i R zpide 7 9 Les Corts 08034 Barcelona Spain,41.3893478,2.1209755,8.82888888889,45,8.17083333333
+284912,Catalonia Plaza Catalunya,Bergara 11 Eixample 08002 Barcelona Spain,41.3865289,2.1682919,8.67510373444,964,8.4331797235
+286466,Hotel Pulitzer,Bergara 8 Eixample 08002 Barcelona Spain,41.386136,2.1682914,8.86767676768,495,8.669140625
+286961,Hotel Alimara,Berruguete 126 Horta Guinard 08035 Barcelona Spain,41.4337561,2.147327,7.84256410256,195,8.59702970297
+288224,Petit Palace Boqueria Garden,Boquer a 10 Ciutat Vella 08002 Barcelona Spain,41.3812223,2.1739622,8.60050890585,786,8.29846938776
+289010,Mercer House B ria BCN,Boria 24 26 Ciutat Vella 08003 Barcelona Spain,41.3846844,2.1791065,8.5797752809,89,8.66
+291776,Catalonia La Pedrera,C rcega 368 Eixample 08037 Barcelona Spain,41.3986093,2.1625037,8.5135483871,155,8.24695652174
+291931,Ohla Eixample,C rsega 289 Eixample 08008 Barcelona Spain,41.3944574,2.1564353,9.0968,250,9.10601503759
+292257,Hotel Villa Emilia,Calabria 115 117 Eixample 08015 Barcelona Spain,41.3802469,2.1541149,9.15699481865,193,8.98172043011
+292450,TWO Hotel Barcelona by Axel 4 Sup Adults Only,Calabria 90 92 Eixample 08015 Barcelona Spain,41.37913,2.1561186,8.63812260536,522,9.25675675676
+292972,Hotel Best Western PLUS Alfa Aeropuerto,Calle K s n Entrada principal Mercabarna Sants Montju c 08040 Barcelona Spain,41.3283758,2.1129638,7.89842657343,572,7.58178294574
+293544,AC Hotel Irla a Marriott Lifestyle Hotel,Calvet 40 42 Sarri St Gervasi 08021 Barcelona Spain,41.3948175,2.1434702,8.125,16,7.3
+293560,Hotel Barcelona Catedral,Capellans 4 Ciutat Vella 08002 Barcelona Spain,41.384829,2.1751277,9.15459770115,870,8.32764857881
+294430,Arenas Atiram Hotels,Capitan Arenas 20 Les Corts 08034 Barcelona Spain,41.3904305,2.1262314,7.45333333333,75,7.56481481481
+295331,Senator Barcelona Spa Hotel,Cardenal Reig 11 Les Corts 08028 Barcelona Spain,41.3777977,2.1135971,7.62144112478,569,7.85
+297159,Room Mate Anna,Carrer de Arag 271 Eixample 08007 Barcelona Spain,41.3929366,2.1653954,9.15324232082,293,8.97419354839
+297452,Gran Hotel La Florida,Carretera Vallvidrera Tibidabo 83 93 Horta Guinard 08035 Barcelona Spain,41.4253332,2.1211028,8.62340425532,188,8.892
+297640,Ayre Hotel Caspe,Caspe 103 Eixample 08013 Barcelona Spain,41.3961021,2.1794688,8.61193277311,595,8.28653846154
+299912,Zenit Borrell,Comte Borrell 208 Eixample 08029 Barcelona Spain,41.3859873,2.1514021,7.59047619048,84,8.56393442623
+299996,U232 Hotel,Comte d Urgell 232 Eixample 08036 Barcelona Spain,41.3895237,2.1490307,8.74242424242,198,8.58648648649
+300194,Eurostars Monumental,Consell de Cent 498 500 Eixample 08013 Barcelona Spain,41.4006653,2.1787089,8.21226415094,212,8.47714285714
+300406,Pestana Arena Barcelona,Consell de Cent 51 53 Sants Montju c 08014 Barcelona Spain,41.376801,2.1460443,8.67605633803,142,8.14788732394
+302169,The Mirror Barcelona,Corcega 255 Eixample 08036 Barcelona Spain,41.3930406,2.1545393,8.69936305732,157,8.392
+305398,Tryp Barcelona Condal Mar Hotel,Crist bal de Moura 138 Sant Mart 08019 Barcelona Spain,41.4126508,2.2090895,8.137,100,8.03833333333
+305498,NH Collection Barcelona Constanza,D u i Mata 66 99 Les Corts 08029 Barcelona Spain,41.3885274,2.1360471,8.51468926554,177,9.00091743119
+312809,Mercer Hotel Barcelona,Dels Lledo 7 Ciutat Vella 08003 Barcelona Spain,41.3827,2.1791999,9.46712328767,146,9.57164179104
+313034,Melia Barcelona Sky 4 Sup,Diagonal Pere IV 272 Sant Mart 08005 Barcelona Spain,41.4061636,2.2008956,8.4,44,8.4
+313645,Ako Suites Hotel,Diputaci 195 Eixample 08011 Barcelona Spain,41.3861153,2.1611899,8.69541984733,131,8.70869565217
+313776,Eurostars Cristal Palace,Diputaci 257 Eixample 08007 Barcelona Spain,41.3897945,2.1660575,7.94181818182,385,8.64977375566
+314161,HCC St Moritz,Diputaci 262 264 Eixample 08007 Barcelona Spain,41.3908486,2.1680745,8.15436893204,103,8.71666666667
+314264,Petit Palace Museum,Diputacion 250 Eixample 08007 Barcelona Spain,41.3888014,2.1653738,8.65982404692,341,8.47784431138
+314748,Primero Primera,Doctor Carulla 25 Sarri St Gervasi 08017 Barcelona Spain,41.4002812,2.1297427,9.26338028169,71,9.059375
+314819,Hotel 4 Barcelona,Doctor Trueta 164 Sant Mart 08005 Barcelona Spain,41.3959587,2.2008981,7.72916666667,120,7.65625
+315554,Medinaceli,Duc De Medinaceli 8 Ciutat Vella 08002 Barcelona Spain,41.3781685,2.1786627,7.72804878049,82,7.92826086957
+316447,Hotel Casa Camper,Elisabets 11 Ciutat Vella 08001 Barcelona Spain,41.3832414,2.1685298,9.71893687708,301,9.29137931034
+318744,H10 Art Gallery 4 Sup,Enric Granados 62 64 Eixample 08008 Barcelona Spain,41.392018,2.157066,8.92600619195,323,8.60432692308
+319067,Hotel Granados 83,Enrique Granados 83 Eixample 08008 Barcelona Spain,41.391843,2.156844,8.82592592593,135,8.75731707317
+319530,NH Hesperia Barcelona del Mar,Espronceda 6 Sant Mart 08005 Barcelona Spain,41.4014399,2.2100745,8.20647482014,139,8.18815789474
+327305,Hotel Well and Come,Girona 158 Eixample 08037 Barcelona Spain,41.3991773,2.1656134,9.052,375,8.87888198758
+327773,Ayre Hotel Gran V a,Gran V a de les Corts Catalanes 322 Sants Montju c 08004 Barcelona Spain,41.3732462,2.1474351,8.77691342535,797,8.84705882353
+328570,Sunotel Central,Gran V a De Les Corts Catalanes 570 Eixample 08011 Barcelona Spain,41.3841429,2.1616896,8.2296875,640,8.14153846154
+329210,Silken Gran Hotel Havana,Gran V a de Les Corts Catalanes 647 Eixample 08010 Barcelona Spain,41.3927101,2.1722139,8.73333333333,285,8.07371794872
+329495,Cotton House Hotel Autograph Collection,Gran V a de les Corts Catalanes 670 Eixample 08010 Barcelona Spain,41.3915897,2.1720108,8.36458333333,48,9.41470588235
+329543,Hotel Vueling Bcn by HC,Gran Via 550 Eixample 08011 Barcelona Spain,41.3831641,2.1604736,9.00124223602,322,8.4119760479
+329865,H10 Casanova,Gran Via 559 Eixample 08012 Barcelona Spain,41.3842608,2.1609471,8.68616352201,159,8.41232876712
+330024,Avenida Palace,Gran Via 605 Eixample 08007 Barcelona Spain,41.3891168,2.1671986,8.39058240397,807,8.4221574344
+330831,Acta Atrium Palace,Gran Via Corts Catalanes 656 Eixample 08010 Barcelona Spain,41.390913,2.1706981,8.65043668122,458,8.18394495413
+331289,Hotel Indigo Barcelona Plaza Catalunya,Gran Via de las Corts Catalanes 629 Eixample 08010 Barcelona Spain,41.391362,2.1700953,8.53759398496,133,8.72388059701
+331422,Catalonia Passeig de Gr cia 4 Sup,Gran Via de les Corts Catalanes 644 Eixample 08007 Barcelona Spain,41.3901396,2.1696699,9.2388,500,9.12451361868
+331922,Hotel Palace GL,Gran Via de les Corts Catalanes 668 Eixample 08010 Barcelona Spain,41.3916258,2.1716378,9.47927170868,357,9.25487179487
+332279,Grupotel Gran Via 678,Gran Via de les Corts Catalanes 678 Eixample 08010 Barcelona Spain,41.392344,2.1729157,8.44588235294,340,8.30126582278
+332619,Hotel Casa Bonay,Gran Via de les Corts Catalanes 700 Eixample 08010 Barcelona Spain,41.3935967,2.1742718,8.93166666667,360,8.27230769231
+335562,Pol Grace Hotel,Guillem Tell 49 Sarri St Gervasi 08006 Barcelona Spain,41.4017465,2.1477365,8.79225,400,8.81631578947
+348666,Hotel G tico,Jaime I 14 Ciutat Vella 08002 Barcelona Spain,41.3835584,2.178311,8.092,25,8.38
+349369,Gran Hotel Barcino,Jaume I 6 Ciutat Vella 08002 Barcelona Spain,41.3830582,2.1778267,6.52073170732,82,8.31
+349451,Aparthotel Atenea Barcelona,Joan G ell 207 211 Les Corts 08028 Barcelona Spain,41.3862689,2.1291786,8.26460674157,178,7.372
+352164,Vincci Bit,Josep Pla 69 Sant Mart 08019 Barcelona Spain,41.4114188,2.211756,8.37518248175,411,8.725
+359910,Hotel Bagu s,La Rambla 105 Ciutat Vella 08002 Barcelona Spain,41.3827894,2.1715636,8.91344537815,119,8.87894736842
+360029,Hotel 1898,La Rambla 109 Ciutat Vella 08002 Barcelona Spain,41.3834673,2.1712016,9.23819444444,432,9.12533936652
+360461,Hotel Serhs Rivoli Rambla,La Rambla 128 Ciutat Vella 08002 Barcelona Spain,41.3843222,2.1712893,7.99243697479,357,8.26991150442
+360818,Eurostars Ramblas,La Rambla 22 24 Ciutat Vella 08002 Barcelona Spain,41.3780983,2.1762005,8.27419354839,372,8.07623318386
+367456,Royal Ramblas,Las Ramblas 117 Ciutat Vella 08002 Barcelona Spain,41.3842838,2.1707092,8.24889196676,722,8.66289156627
+370265,Ilunion Bel Art,Lepanto 406 Horta Guinard 08025 Barcelona Spain,41.4101934,2.1695574,8.134,50,7.56571428571
+371929,Ofelias Hotel 4 Sup,Llan 24 Eixample 08015 Barcelona Spain,41.3957584,2.1822402,8.93333333333,81,8.09056603774
+372010,Vincci Maritimo,Llull 340 Sant Mart 08019 Barcelona Spain,41.4082054,2.2124626,8.21078717201,343,8.48106508876
+372586,The Level at Melia Barcelona Sky,Lope de Vega 141 Sant Mart 08005 Barcelona Spain,41.406146,2.2008636,8.44090909091,22,8.81875
+372608,Eurohotel Diagonal Port,Lope de Vega 4 Sant Mart 08005 Barcelona Spain,41.4006708,2.2087844,6.80961538462,52,7.4125
+372660,Hotel Derby,Loreto 21 25 Les Corts 08029 Barcelona Spain,41.3897735,2.1419762,8.08933333333,75,7.91184210526
+372735,Hotel Gran Derby Suites,Loreto 28 Les Corts 08029 Barcelona Spain,41.3900104,2.1422396,8.284,75,8.99090909091
+372994,Catalonia Magdalenes,Magdalenes 13 15 Ciutat Vella 08002 Barcelona Spain,41.3861283,2.1745291,9.561414791,311,8.96724137931
+373305,Expo Hotel Barcelona,Mallorca 1 23 Sants Montju c 08014 Barcelona Spain,41.3792053,2.1427989,7.76534161491,805,7.25871794872
+374110,The Corner Hotel,Mallorca 178 Eixample 08036 Barcelona Spain,41.3890578,2.1565948,9.42038834951,103,9.06603773585
+374213,Best Western Premier Hotel Dante,Mallorca 181 Eixample 08036 Barcelona Spain,41.3894195,2.1564886,8.47788944724,199,8.2652173913
+374412,Hotel Balmes,Mallorca 216 Eixample 08008 Barcelona Spain,41.3910621,2.1593373,8.57428571429,210,8.34081632653
+374622,Alexandra Barcelona A DoubleTree by Hilton,Mallorca 251 Eixample 08008 Barcelona Spain,41.3931918,2.16152,8.02727272727,77,8.75652173913
+374699,Alma Barcelona GL,Mallorca 269 271 Eixample 08008 Barcelona Spain,41.3945074,2.1632659,9.34301675978,179,8.90574712644
+374878,Room Mate Carla,Mallorca 288 Eixample 08037 Barcelona Spain,41.3962658,2.1662153,8.98340611354,229,8.74344262295
+376416,Upper Diagonal,Manuel Girona 7 21 Sarri St Gervasi 08034 Barcelona Spain,41.39038,2.121,8.86449275362,138,8.66911764706
+378118,Aparthotel Mariano Cubi Barcelona,Mariano Cubi 62 64 Sarri St Gervasi 08006 Barcelona Spain,41.3982129,2.1494179,8.20879120879,91,8.466
+378209,Hotel Arts Barcelona,Marina 19 21 08005 Barcelona Spain,41.3865424,2.1969665,8.64487179487,312,9.02100456621
+381366,Eurostars Grand Marina Hotel GL,Moll de Barcelona WTC Ciutat Vella 08039 Barcelona Spain,41.371308,2.181698,8.44805914972,1082,8.58438438438
+382536,Guitart Grand Passage,Muntaner 212 Eixample 08036 Barcelona Spain,41.3936071,2.1504611,7.9962406015,133,8.2746835443
+382669,Hotel Rekord,Muntaner 352 Sarri St Gervasi 08021 Barcelona Spain,41.3985449,2.1438237,7.96379310345,58,8.38214285714
+382727,Catalonia Barcelona 505,Muntaner 505 Sarri St Gervasi 08022 Barcelona Spain,41.4034965,2.1370426,8.19,130,8.21666666667
+385039,Acta CITY47,Nicaragua 47 Sants Montju c 08029 Barcelona Spain,41.383515,2.1407396,8.18503937008,381,7.94644549763
+389263,Onix Liceo,Nou de la Rambla 36 Ciutat Vella 08001 Barcelona Spain,41.3780229,2.1730782,8.14166666667,240,7.99795918367
+389503,Abba Sants,Numancia 32 Sants Montju c 08029 Barcelona Spain,41.3825777,2.1400103,8.36833333333,120,7.93066666667
+389623,NH Sants Barcelona,Numancia 74 Les Corts 08029 Barcelona Spain,41.384591,2.1378107,8.09158878505,107,8.38709677419
+393918,Hotel Grums Barcelona,Palaud ries 26 Sants Montju c 08004 Barcelona Spain,41.3727844,2.1721134,8.3479245283,265,8.21858974359
+394183,Hotel Spa Villa Olimpica Suites,Pallars 121 125 Sant Mart 08018 Barcelona Spain,41.3971434,2.1921947,7.92331406551,519,8.13049180328
+394702,Sall s Hotel Pere IV,Pallars 128 130 Sant Mart 08018 Barcelona Spain,41.3969273,2.192267,7.93850687623,509,7.82222222222
+395784,Silken Concordia,Paral lel 115 Sants Montju c 08004 Barcelona Spain,41.3747873,2.1611846,8.22151898734,158,8.16909090909
+396824,H10 Port Vell 4 Sup,Pas de Sota Muralla 9 Ciutat Vella 08003 Barcelona Spain,41.3815625,2.1838458,9.29164345404,359,8.97465753425
+397183,Hotel Margot House,Paseo de Gracia 46 Eixample 08007 Barcelona Spain,41.3918805,2.1660363,9.31511627907,86,9.57380952381
+397269,Condes de Barcelona,Paseo de Gracia 73 Eixample 08008 Barcelona Spain,41.3935497,2.1627098,8.66121673004,263,8.76257668712
+397532,Monument Hotel,Paseo de Gracia 75 Eixample 08008 Barcelona Spain,41.3939082,2.1622556,9.38132780083,241,9.15151515152
+397773,Occidental Atenea Mar Adults Only,Paseo Garc a Faria 37 47 Sant Mart 08019 Barcelona Spain,41.4023621,2.2119049,8.1685300207,483,8.26307053942
+398256,Hotel Front Maritim,Paseo Garc a I Faria 69 71 Sant Mart 08019 Barcelona Spain,41.4037972,2.213767,7.32426470588,136,7.7950617284
+398392,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,Paseo Taulat 278 Sant Mart 08019 Barcelona Spain,41.4101306,2.2188047,8.00138408304,289,8.278125
+398681,Duquesa de Cardona,Passeig Colom 12 Ciutat Vella 08002 Barcelona Spain,41.3798658,2.1805271,9.02462121212,264,8.6891025641
+398945,Hotel The Serras,Passeig de Colom 9 Ciutat Vella 08002 Barcelona Spain,41.3801815,2.180688,9.6234741784,213,9.55098039216
+399158,Eurostars Bcn Design,Passeig de Gr cia 29 Eixample 08007 Barcelona Spain,41.3907208,2.1660732,8.23970588235,272,8.39534883721
+399430,Mandarin Oriental Barcelona,Passeig de Gr cia 38 40 Eixample 08007 Barcelona Spain,41.391393,2.1668467,9.33636363636,77,8.41136363636
+399507,Hotel Casa Fuster G L Monumento,Passeig de Gracia 132 Gr cia 08008 Barcelona Spain,41.3980162,2.1581229,9.02044444444,225,8.95445544554
+399732,Sixtytwo Hotel,Passeig de Gracia 62 Eixample 08007 Barcelona Spain,41.3930168,2.1646148,9.31244635193,233,8.99689922481
+399965,Majestic Hotel Spa Barcelona GL,Passeig de Gracia 68 Eixample 08007 Barcelona Spain,41.3935179,2.1639813,8.81274725275,455,9.0178041543
+400420,Royal Passeig de Gracia,Passeig de Gracia 84 Eixample 08008 Barcelona Spain,41.3946775,2.162638,8.63638743455,764,8.52926208651
+401184,K K Hotel Picasso,Passeig de Picasso 26 30 Ciutat Vella 08003 Barcelona Spain,41.3866227,2.1840722,9.15529953917,434,8.37488151659
+401618,AC Hotel Sants a Marriott Lifestyle Hotel,Passeig de Sant Antoni 36 40 Sants Montju c 08014 Barcelona Spain,41.3775577,2.1384686,7.92197802198,91,8.16904761905
+401709,Hilton Diagonal Mar Barcelona,Passeig del Taulat 262 264 Sant Mart 08019 Barcelona Spain,41.4084334,2.2178205,7.68785714286,140,8.31830985915
+401983,Renaissance Barcelona Hotel,Pau Clar s 122 Eixample 08009 Barcelona Spain,,,7.05151515152,33,8.505
+402016,Claris Hotel Spa GL,Pau Claris 150 Eixample 08009 Barcelona Spain,41.3944848,2.1651078,8.69298245614,228,8.46233766234
+402244,H10 Casa Mimosa 4 Sup,Pau Claris 179 Eixample 08037 Barcelona Spain,41.3962106,2.1621171,9.66034482759,116,9.475
+402360,Catalonia Ramblas 4 Sup,Pelai 28 Ciutat Vella 08002 Barcelona Spain,41.3856387,2.1668274,8.66831460674,890,8.48571428571
+403250,Hotel Midmost,Pelayo 14 Ciutat Vella 08001 Barcelona Spain,41.3856173,2.1659487,9.33518518519,108,8.99722222222
+411149,Silken Ramblas,Pintor Fortuny 13 Ciutat Vella 08001 Barcelona Spain,41.3830117,2.1700699,7.80925,400,8.0972826087
+411549,Duquesa Suites Barcelona,Pla a Antonio L pez 5 Ciutat Vella 08002 Barcelona Spain,41.3810421,2.1814294,9.20391459075,281,8.85042735043
+411830,Hotel SB Diagonal Zero Barcelona 4 Sup,Pla a de Llevant s n Sant Mart 08019 Barcelona Spain,41.4111652,2.2192012,8.14125295508,846,8.3018442623
+412676,Hotel DO Pla a Reial G L ,Pla a Reial 1 Ciutat Vella 08001 Barcelona Spain,41.3799929,2.1748256,9.35742574257,101,9.155
+412777,W Barcelona,Pla a Rosa dels Vents 1 Passeig Joan de Borbo Ciutat Vella 08039 Barcelona Spain,41.368437,2.1901534,8.41234782609,575,8.65180722892
+413352,H10 Urquinaona Plaza,Pla a Urquinaona 2 Eixample 08010 Barcelona Spain,41.3892128,2.1726015,9.1868852459,488,8.89317073171
+414166,Hotel Miramar Barcelona GL,Plaza Carlos Iba ez 3 Sants Montju c 08038 Barcelona Spain,41.3703041,2.17141,8.68820960699,229,8.7247706422
+414395,Olivia Plaza Hotel,Plaza de Catalunya 19 Ciutat Vella 08002 Barcelona Spain,41.3861459,2.1711594,9.3915912031,773,9.07523809524
+415168,Catalonia Barcelona Plaza,Plaza Espa a 6 8 Sants Montju c 08014 Barcelona Spain,41.3750293,2.1491172,8.30815450644,932,8.60429594272
+416100,Barcel Sants,Plaza Paisos Catalans s n Sants Montju c 08014 Barcelona Spain,41.3798964,2.1412433,8.6028708134,836,8.59428571429
+422777,Attica 21 Barcelona Mar,Proven als 10 Sant Mart 08019 Barcelona Spain,41.4052324,2.2117289,8.27321428571,168,7.83302752294
+422945,Hotel America Barcelona,Provenza 195 Eixample 08008 Barcelona Spain,41.3919083,2.1573318,8.75555555556,54,8.61176470588
+423505,Catalonia Park Putxet,Putget 68 Sarri St Gervasi 08023 Barcelona Spain,41.4072812,2.1443116,7.41221719457,442,7.37906976744
+423947,Hotel Murmuri Barcelona,Rambla Catalunya 104 Eixample 08008 Barcelona Spain,41.3941625,2.1597836,8.68111111111,90,8.94078947368
+424037,NH Collection Barcelona Gran Hotel Calder n,Rambla Catalunya 26 Eixample 08007 Barcelona Spain,41.3894654,2.1662651,8.80740740741,189,8.7875
+424226,H10 Metropolitan 4 Sup,Rambla Catalunya 7 9 Eixample 08007 Barcelona Spain,41.3875467,2.1673975,9.32412451362,514,8.94682539683
+424740,HCC Regente,Rambla de Catalunya 76 Eixample 08008 Barcelona Spain,41.3922919,2.1622256,8.25138888889,72,7.79722222222
+424812,Barcel Raval,Rambla del Raval 17 21 Ciutat Vella 08001 Barcelona Spain,41.3790126,2.1696339,8.5115942029,552,8.159375
+425364,Le M ridien Barcelona,Ramblas 111 Ciutat Vella 08002 Barcelona Spain,41.3837453,2.171014,8.24745762712,118,8.13411764706
+425482,Ilunion Barcelona,Ramon Turr 196 198 Sant Mart 08005 Barcelona Spain,41.3989322,2.2024183,7.82177419355,620,8.02247474747
+426562,Catalonia Born,Rec Comtal 16 18 Ciutat Vella 08003 Barcelona Spain,41.3896916,2.1798661,8.81116173121,439,8.77677725118
+430390,The Wittmore Adults Only,Riudarenes 7 Ciutat Vella 08002 Barcelona Spain,41.380939,2.1796095,9.42235294118,85,9.35581395349
+431404,Hotel mbit Barcelona,Roger de Ll ria 17 Eixample 08010 Barcelona Spain,41.3907821,2.1717426,9.08101265823,316,8.44960629921
+431720,Catalonia Eixample 1864,Roger de Ll ria 60 Eixample 08009 Barcelona Spain,41.393599,2.1684151,8.30817757009,428,8.28523206751
+432148,Negresco Princess 4 Sup,Roger de Lluria 16 18 Eixample 08010 Barcelona Spain,41.3905166,2.1725643,8.97461538462,520,8.73056768559
+432668,Petit Palace Barcelona,Roger De Lluria 21 Esq Gran Via 662 Eixample 08037 Barcelona Spain,41.3909816,2.1714938,8.159375,160,7.43888888889
+432828,Roger de Ll ria,Roger de Lluria 28 Eixample 08010 Barcelona Spain,41.3910786,2.1717285,8.646875,128,8.26202531646
+432956,Hotel Garbi Millenni,Ronda Sant Pau 14 Ciutat Vella 08001 Barcelona Spain,41.3759896,2.167148,7.51125,80,7.72678571429
+433036,Vincci Gala,Ronda Sant Pere 32 Eixample 08010 Barcelona Spain,41.3895263,2.1747136,8.74251497006,167,9.18586956522
+433203,Catalonia Square 4 Sup,Ronda Sant Pere 9 Eixample 08010 Barcelona Spain,41.3885658,2.1712991,9.47688787185,437,9.2303030303
+433640,H10 Universitat,Ronda Universitat 21 Eixample 08007 Barcelona Spain,41.3869565,2.1665338,8.64214285714,280,8.20948905109
+434204,Bcn Urban Hotels Gran Rosellon,Rosell n 174 176 Eixample 08036 Barcelona Spain,41.4226648,2.1464261,8.62788944724,398,8.18963414634
+434602,Gallery Hotel,Rossell 249 Eixample 08008 Barcelona Spain,41.3949242,2.1593099,9.12715517241,232,9.0452173913
+434834,Hotel Omm,Rossell 265 Eixample 08008 Barcelona Spain,41.3962468,2.1609551,8.92180451128,133,8.86813186813
+434967,Ayre Hotel Rosell n,Rossell 390 Eixample 08025 Barcelona Spain,41.4047382,2.1727127,8.94566473988,519,8.10697674419
+435486,Evenia Rossello,Rossello 191 Eixample 08036 Barcelona Spain,41.3920254,2.1554675,8.21609195402,87,8.16216216216
+438979,Catalonia Rigoletto,Sabino de Arana 22 24 Les Corts 08028 Barcelona Spain,41.385817,2.1256789,8.41841155235,277,8.94217687075
+439256,Hotel Neri,San Sever 5 Ciutat Vella 08002 Barcelona Spain,41.3832498,2.1753483,9.34078947368,76,8.94523809524
+439332,Capri by Fraser Barcelona,Sancho de vila 32 34 Sant Mart 08018 Barcelona Spain,41.3976233,2.188975,8.75212355212,518,8.88581314879
+439850,Hotel Espa a Ramblas,Sant Pau 9 11 Ciutat Vella 08001 Barcelona Spain,41.3799209,2.1728181,8.79656716418,670,8.47918088737
+440520,Abba Garden,Santa Rosa Esplugues 33 08950 Barcelona Spain,41.3854716,2.1018835,8.0376,125,7.66111111111
+440645,Zenit Barcelona,Santal 8 Sarri St Gervasi 08021 Barcelona Spain,41.3949199,2.1468594,8.08101265823,79,8.12678571429
+449422,Hotel Advance,Sep lveda 180 Eixample 08011 Barcelona Spain,,,8.45,28,8.06666666667
+468018,NH Barcelona Stadium,Travessera de les Corts 150 152 Les Corts 08028 Barcelona Spain,41.3812574,2.1269078,8.12897727273,176,8.05405405405
+468773,Mercure Barcelona Condor,V a Augusta 127 Sarri St Gervasi 08006 Barcelona Spain,41.3999934,2.1452467,8.20217391304,46,7.75526315789
+468819,H10 Cubik 4 Sup,V a Laietana 69 Ciutat Vella 08003 Barcelona Spain,41.388024,2.1731556,9.34947643979,382,9.20825242718
+469201,Sunotel Club Central,Valencia 157 Eixample 08011 Barcelona Spain,41.38793,2.1568061,8.18403990025,401,8.22782608696
+471302,Hotel Balmoral,Via Augusta 5 08006 Barcelona Spain,41.3961294,2.1551626,8.43,140,8.10217391304
+478394,Exe Laietana Palace,Via Laietana 17 Ciutat Vella 08003 Barcelona Spain,41.3833541,2.1794038,7.84882075472,424,8.02259887006
+478818,Grand Hotel Central,Via Laietana 30 Ciutat Vella 08003 Barcelona Spain,41.3849695,2.1776631,9.06946308725,298,8.56993464052
+479116,Ilunion Almirante,Via Laietana 42 Ciutat Vella 08003 Barcelona Spain,41.3860521,2.176157,7.00909090909,264,7.26666666667
+479380,Ohla Barcelona,Via Laietana 49 Ciutat Vella 08003 Barcelona Spain,41.3870479,2.174336,9.07765667575,367,8.82515337423
+479747,Barcelona Hotel Colonial,Via Layetana 3 Ciutat Vella 08003 Barcelona Spain,41.3822909,2.1807447,7.76481481481,54,7.86129032258
+498819,Hotel Vilamar ,Vilamari 34 36 Eixample 08015 Barcelona Spain,41.3766732,2.1524478,8.27398843931,173,8.33982300885
+498992,Vilana Hotel,Vilana 7 Sarri St Gervasi 08017 Barcelona Spain,41.4047934,2.1288527,8.46935483871,62,7.64333333333
+499054,Acevi Villarroel,Villarroel 106 Eixample 08011 Barcelona Spain,41.3853781,2.1567228,7.65142045455,352,8.02255319149

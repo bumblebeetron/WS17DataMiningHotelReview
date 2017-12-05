@@ -1,0 +1,459 @@
+,Hotel_Name,Hotel_Address,lat,lng,Reviewer_Average_Score,Total_No_Of_Reviewers,Non_Reviewer_Average_Score
+3778,Monhotel Lounge SPA,1 3 Rue d Argentine 16th arr 75116 Paris France,48.8743481,2.2897334,8.84857142857,35,7.79615384615
+3813,Kube Hotel Ice Bar,1 5 Passage Ruelle 18th arr 75018 Paris France,48.88657,2.3588332,5.85263157895,19,9.16923076923
+7616,Splendid Etoile,1 Avenue Carnot 17th arr 75017 Paris France,48.874707,2.2936761,9.14251968504,127,8.48933333333
+7743,Hotel Trianon Rive Gauche,1 Bis Rue De Vaugirard 6th arr 75006 Paris France,48.8487675,2.3410376,8.33027522936,218,7.91313131313
+8121,Novotel Suites Paris Nord 18 me,1 Impasse Marteau 18th arr 75018 Paris France,48.9015941,2.3597783,7.02944444444,180,8.13296703297
+12352,Select Hotel,1 Place De La Sorbonne 5th arr 75005 Paris France,48.8483053,2.3425596,8.961328125,256,8.76694915254
+12608,H tel De Vend me,1 Place Vend me 1st arr 75001 Paris France,48.8668564,2.3286339,8.38539325843,89,9.1
+12697,Pullman Paris Centre Bercy,1 Rue De Libourne 12th arr 75012 Paris France,48.8315204,2.3870797,8.75848214286,224,8.61266666667
+12921,Gardette Park Hotel,1 Rue Du G n ral Blaise 11th arr 75011 Paris France,48.8610265,2.3788974,8.14134078212,179,8.31797752809
+13100,Hotel Panache,1 rue Geoffroy Marie 9th arr 75009 Paris France,48.8732543,2.343239,8.48902439024,82,8.8275
+13182,H tel des Ducs D Anjou,1 Rue Sainte Opportune 1st arr 75001 Paris France,48.8598229,2.347111,7.82037037037,108,7.4868852459
+13290,Hotel Scribe Paris Opera by Sofitel,1 Rue Scribe 9th arr 75009 Paris France,48.8704175,2.3296832,8.77777777778,135,8.35257731959
+17380,H tel Juliana Paris,10 12 rue Cognacq Jay 7th arr 75007 Paris France,48.8619373,2.3040298,8.5775147929,169,8.63958333333
+17549,Hotel L Antoine,10 12 rue de Charonne 11th arr 75011 Paris France,48.8524215,2.3743832,9.14210526316,171,8.40714285714
+17720,Belfast,10 avenue Carnot 17th arr 75017 Paris France,48.8756435,2.2938788,7.7523255814,86,7.58461538462
+17806,Shangri La Hotel Paris,10 Avenue D I na 16th arr 75016 Paris France,48.8637135,2.2934759,9.10217391304,46,9.53947368421
+17852,Mercure Paris Tour Eiffel Pont Mirabeau,10 Avenue Emile Zola 15th arr 75015 Paris France,48.8460269,2.2788281,7.51714285714,70,9.02424242424
+18396,Hotel Le 10 BIS,10 Bis rue du D barcad re 17th arr 75017 Paris France,48.8780363,2.2864907,9.34489795918,49,8.92692307692
+21536,Crowne Plaza Paris R publique,10 Place De La R publique 11th arr 75011 Paris France,48.8673199,2.3656296,8.00471698113,212,7.99290780142
+21748,Le Metropolitan a Tribute Portfolio Hotel,10 Place De Mexico 16th arr 75016 Paris France,48.8656973,2.2829776,8.34242424242,66,8.21764705882
+21814,Atala Champs Elys es,10 rue Chateaubriand 8th arr 75008 Paris France,48.8735418,2.302442,7.91379310345,29,8.79285714286
+21843,H tel de Jos phine BONAPARTE,10 rue d Ormesson 4th arr 75004 Paris France,48.8555319,2.3621212,9.18157894737,76,8.48888888889
+21919,Maison Souquet,10 rue de Bruxelles 9th arr 75009 Paris France,48.88366,2.3313845,9.34835164835,91,9.22142857143
+22010,Hotel Tour d Auvergne Opera,10 Rue de la Tour d Auvergne 9th arr 75009 Paris France,48.8789432,2.3448623,8.476,25,8.05555555556
+22035,Le Senat,10 rue de Vaugirard 6th arr 75006 Paris France,48.8491427,2.3397118,8.31833333333,120,8.2734939759
+22155,Windsor Opera,10 Rue Gabriel Laumain 10th arr 75010 Paris France,48.8734851,2.3485111,8.08823529412,34,8.78
+22189,Holiday Inn Paris Montparnasse Pasteur,10 rue Gager Gabillot 15th arr 75015 Paris France,48.8376887,2.3063102,6.32972972973,37,8.15555555556
+22226,H tel Keppler,10 Rue Kepler 16th arr 75016 Paris France,48.8699103,2.2973386,9.33052631579,95,8.81558441558
+22321,Les Plumes Hotel,10 rue Lamartine 9th arr 75009 Paris France,48.8766269,2.3432886,8.72654867257,113,8.99761904762
+22434,Hotel des Tuileries Relais du Silence,10 rue Saint Hyacinthe 1st arr 75001 Paris France,48.8661705,2.331561,8.22307692308,91,7.83953488372
+22525,Bradford Elys es Astotel,10 rue Saint Philippe du Roule 8th arr 75008 Paris France,48.8729676,2.3081178,9.12195121951,82,9.05813953488
+28142,Amp re,102 Avenue de Villiers 17th arr 75017 Paris France,48.8848583,2.2997023,8.825,172,8.757
+28314,Melia Paris Champs Elys es,102 Avenue Victor Hugo 16th arr 75016 Paris France,48.8688962,2.2827459,8.00666666667,15,8.74
+28329,Le Parisis Paris Tour Eiffel,102 Bd De Grenelle 15th arr 75015 Paris France,48.8494851,2.2955063,8.73738317757,428,8.35601659751
+30211,Hilton Paris Opera,108 Rue Saint Lazare 8th arr 75008 Paris France,48.8756604,2.3252075,8.27155963303,109,8.61538461538
+33131,Holiday Inn Paris Gare de Lyon Bastille,11 15 Rue De Lyon 12th arr 75012 Paris France,48.8468064,2.3714789,8.27493670886,395,8.34829268293
+33526,H tel Chaplain Paris Rive Gauche,11 Bis Rue Jules Chaplain 6th arr 75006 Paris France,48.8427564,2.3305636,8.94511278195,133,7.95909090909
+33659,H tel Regina Op ra Grands Boulevards,11 Bis rue Mazagran 10th arr 75010 Paris France,48.8708508,2.3515882,8.075,44,7.592
+33939,Hotel Astor Saint Honor ,11 Rue d Astorg 8th arr 75008 Paris France,48.8728324,2.3193886,7.73333333333,24,7.20526315789
+33963,Op ra Marigny,11 Rue de l Arcade 8th arr 75008 Paris France,48.871723,2.3235377,7.89652173913,115,8.3925
+34078,H tel Diva Opera,11 rue de Tr vise 9th arr 75009 Paris France,48.8732706,2.3450746,8.23433476395,233,8.43783783784
+34311,Le Marcel,11 rue du 8 Mai 1945 10th arr 75010 Paris France,48.8761376,2.3572681,8.53055555556,72,8.45
+34383,H tel Duo,11 Rue Du Temple 4th arr 75004 Paris France,48.8581186,2.3529369,8.68461538462,221,8.44285714286
+34604,H tel Le Marianne,11 rue Paul Baudry 8th arr 75008 Paris France,48.8725794,2.3075779,8.5875,56,8.87027027027
+35372,Hotel Eden,110 rue Blomet 15th arr 75015 Paris France,48.8405612,2.2991035,8.77142857143,70,8.01282051282
+35442,H tel de la Bourdonnais,111 avenue de la Bourdonnais 7th arr 75007 Paris France,48.8550466,2.304583,8.76022099448,362,8.8808988764
+36127,Best Western Premier Marais Grands Boulevards,112 boulevard de S bastopol 3rd arr 75003 Paris France,48.8687425,2.3541761,8.29784482759,232,8.30373134328
+37377,Le Dokhan s a Tribute Portfolio Hotel,117 Rue Lauriston 16th arr 75116 Paris France,48.8663359,2.2867935,8.04852941176,68,7.60294117647
+37445,Le Relais Madeleine,11bis Rue Godot de Mauroy 9th arr 75009 Paris France,48.870961,2.3267678,8.7632183908,87,8.56585365854
+37532,Terrass H tel Montmartre by MH,12 14 Rue Joseph De Maistre 18th arr 75018 Paris France,48.8865626,2.3329648,9.27661691542,201,8.31358024691
+37733,Millennium Hotel Paris Opera,12 Boulevard Haussmann 9th arr 75009 Paris France,48.8724588,2.3378004,7.9224,125,7.60384615385
+37858,Waldorf Madeleine,12 boulevard Malesherbes 8th arr 75008 Paris France,48.8715828,2.3224853,8.60854092527,281,7.97841726619
+40089,Hotel La Lanterne,12 rue de la Montagne Sainte Genevi ve 5th arr 75005 Paris France,48.8489839,2.348383,8.87083333333,96,9.26956521739
+40185,H tel Square Louvois,12 Rue de Louvois 2nd arr 75002 Paris France,48.8684165,2.336869,9.20833333333,72,9.465
+40257,Hotel Marignan Champs Elys es,12 rue de Marignan 8th arr 75008 Paris France,48.8685093,2.3067895,8.68086419753,162,8.73406593407
+40419,Le Grey Hotel,12 rue de Parme 9th arr 75009 Paris France,48.881407,2.3274204,9.11578947368,76,8.85573770492
+40495,Le Pavillon des Lettres,12 rue des Saussaies 8th arr 75008 Paris France,48.8713699,2.3181191,9.0625,40,8.91379310345
+40535,H tel San R gis,12 Rue Jean Goujon 8th arr 75008 Paris France,48.8665788,2.3084447,8.66891891892,74,8.74035087719
+40609,Garden Elys e,12 rue Saint Didier 16th arr 75016 Paris France,48.8663444,2.2881979,8.404,75,8.59863013699
+40684,Hotel Louvre Montana,12 rue Saint Roch 1st arr 75001 Paris France,48.8644627,2.3318473,8.61515151515,66,8.01621621622
+41518,Le 123 S bastopol Astotel,123 boulevard S bastopol 2nd arr 75002 Paris France,48.8675886,2.3531018,9.50692307692,130,8.80185185185
+41648,Le 123 Elysees Astotel,123 Rue Du Faubourg Saint Honor 8th arr 75008 Paris France,48.8730823,2.309659,9.22830188679,53,9.14
+41831,Best Western Mercedes Arc de Triomphe,128 avenue de Wagram 17th arr 75017 Paris France,48.8848292,2.3035189,8.0,58,7.41333333333
+43148,1K Hotel,13 Boulevard Du Temple 3rd arr 75003 Paris France,48.8639318,2.3658744,7.86148648649,148,7.35362318841
+43296,H tel Westminster,13 Rue De La Paix 2nd arr 75002 Paris France,48.8693409,2.3310263,8.58817891374,313,8.02721518987
+43609,L H tel,13 rue des Beaux Arts 6th arr 75006 Paris France,48.8562272,2.3351758,8.92405063291,79,8.59583333333
+43688,Mercure Paris Porte d Orleans,13 Rue Fran ois Ory 92120 Paris France,48.8178079,2.3293636,8.18,10,6.36666666667
+43698,Maxim Op ra,13 rue Geoffroy Marie 9th arr 75009 Paris France,48.8738557,2.3444232,8.26857142857,35,8.59166666667
+43733,Le Marceau Bastille,13 Rue Jules Cesar 12th arr 75012 Paris France,48.8490691,2.3697484,8.44066666667,150,8.87159090909
+43883,Hotel Odeon Saint Germain,13 rue Saint Sulpice 6th arr 75006 Paris France,48.8513515,2.3375084,8.78383233533,167,8.25505617978
+46975,La Villa Haussmann,132 Boulevard Haussmann 8th arr 75008 Paris France,48.8753446,2.3167161,9.15609756098,41,9.272
+48807,Sofitel Paris Arc De Triomphe,14 Rue Beaujon 8th arr 75008 Paris France,48.8751845,2.3013214,8.71340206186,194,8.91748251748
+49001,Hotel Mercure La Sorbonne Saint Germain des Pr s,14 Rue de la Sorbonne 5th arr 75005 Paris France,48.8493499,2.3430569,8.625,80,7.5972972973
+49081,La Tremoille Paris,14 rue de la Tremoille 8th arr 75008 Paris France,48.8668589,2.3028215,8.52894736842,76,8.45769230769
+49157,Hotel Op ra Richepanse,14 Rue du Chevalier de Saint George 1st arr 75001 Paris France,48.8686931,2.325211,9.30289256198,242,9.00393700787
+49399,H tel Duc De St Simon,14 Rue St Simon 7th arr 75007 Paris France,48.8560685,2.3236846,9.20608695652,115,8.65652173913
+49514,Hotel Le Six,14 Rue Stanislas 6th arr 75006 Paris France,48.8438352,2.3280708,9.40317460317,63,8.6225
+50673,Best Western Premier Louvre Saint Honor ,141 rue St Honor 1st arr 75001 Paris France,48.861711,2.340674,8.34048780488,205,7.59175257732
+51319,La Villa Maillot,143 Avenue De Malakoff 16th arr 75016 Paris France,48.875551,2.2835191,8.93246753247,77,8.85762711864
+51396,H tel Madison by MH,143 Boulevard Saint Germain 6th arr 75006 Paris France,48.8531641,2.3344097,8.72772277228,101,8.92372881356
+53999,Novotel Paris 14 Porte d Orl ans,15 Boulevard Romain Rolland 14th arr 75014 Paris France,48.8196885,2.3263505,7.95185185185,27,9.475
+54717,Ritz Paris,15 Place Vend me 1st arr 75001 Paris France,48.8679466,2.3289593,9.725,28,9.9
+54745,Hotel Les Rives de Notre Dame,15 Quai Saint Michel 5th arr 75005 Paris France,48.8532269,2.3457159,9.05416666667,72,7.17826086957
+54817,Sofitel Paris Le Faubourg,15 Rue Boissy d Anglas 8th arr 75008 Paris France,48.868414,2.3213247,8.54306569343,137,8.43516483516
+54954,Bassano,15 Rue de Bassano 16th arr 75016 Paris France,48.8690596,2.2971078,8.131,100,8.49882352941
+55054,Best Western Premier Le Swann,15 rue de Constantinople 8th arr 75008 Paris France,48.8797331,2.3206003,7.99010989011,91,8.9
+55145,H tel des Academies et des Arts,15 Rue De La Grande Chaumi re 6th arr 75006 Paris France,48.8420669,2.3304091,8.896,50,8.64
+55195,Hotel Lumen Paris Louvre,15 Rue Des Pyramides 1st arr 75001 Paris France,48.8652582,2.3329632,8.95285714286,70,8.06785714286
+55265,Le Marquis Eiffel,15 Rue Dupleix 15th arr 75015 Paris France,48.8516619,2.2979395,8.77603305785,121,8.83452380952
+55386,COQ Hotel Paris,15 rue Edouard Manet 13th arr 75013 Paris France,48.8328764,2.3572531,9.14069767442,258,8.76118421053
+55644,Mill sime H tel,15 Rue Jacob 6th arr 75006 Paris France,48.8550236,2.3350786,9.39520958084,167,9.11724137931
+59752,Legend Saint Germain by Elegancia,151 bis Rue de Rennes 6th arr 75006 Paris France,48.8453774,2.3256427,9.04358974359,78,8.55
+60909,Au Manoir Saint Germain,153 Boulevard Saint Germain 6th arr 75006 Paris France,48.853688,2.3322667,8.71144578313,166,8.38488372093
+61456,Best Western S vres Montparnasse,153 Rue De Vaugirard 15th arr 75015 Paris France,48.843707,2.3155631,7.96914893617,188,7.44666666667
+62183,Nolinski Paris,16 Avenue de l Opera 1st arr 75001 Paris France,48.8654874,2.3348924,9.45575221239,113,9.29137931034
+62296,Le Tourville Eiffel,16 avenue de Tourville 7th arr 75007 Paris France,48.8542681,2.3078116,9.09714285714,140,8.24533333333
+62436,Paris Marriott Opera Ambassador Hotel,16 boulevard Haussmann 9th arr 75009 Paris France,48.8728351,2.3362507,7.64393939394,66,8.35675675676
+62770,Idol Hotel,16 rue d Edimbourg 8th arr 75008 Paris France,48.8795369,2.3202966,8.98269230769,104,9.344
+62874,H tel California Champs Elys es,16 rue de Berri 8th arr 75008 Paris France,48.8726335,2.3048084,8.13818181818,275,8.27762557078
+63149,Hotel de Seze,16 rue de S ze 9th arr 75009 Paris France,48.8705741,2.3264194,9.4,80,8.93770491803
+63612,H tel Hor,160 Rue La Fayette 10th arr 75010 Paris France,48.8793427,2.3577745,8.82303030303,330,8.14285714286
+68731,Best Western Op ra Batignolles,165 rue de Rome 17th arr 75017 Paris France,48.8870573,2.3143297,7.66930693069,101,7.475
+68832,H tel de Banville,166 Boulevard Berthier 17th arr 75017 Paris France,48.8864673,2.2948911,8.71730769231,104,8.66949152542
+68936,Villa Eugenie,167 rue de Rome 17th arr 75017 Paris France,48.8871283,2.314205,5.86451612903,62,12.0727272727
+70551,H tel Raphael,17 Avenue Kl ber 16th arr 75016 Paris France,48.8713239,2.2937849,8.84615384615,78,8.49642857143
+70629,Le 7 Eiffel Hotel,17 bis rue Am lie 7th arr 75007 Paris France,48.8585193,2.3077243,8.78026315789,76,7.93947368421
+70705,Paris Marriott Rive Gauche Hotel,17 Boulevard Saint Jacques 14th arr 75014 Paris France,48.8315962,2.3399796,7.38695652174,46,7.64054054054
+70876,Hotel Le Pera,17 Rue de Caumartin 9th arr 75009 Paris France,48.871309,2.3277079,7.69090909091,22,7.98461538462
+70898,H tel Bedford,17 rue de l Arcade 8th arr 75008 Paris France,48.8720593,2.3236802,8.59361702128,376,8.61043478261
+71274,Drawing Hotel,17 rue de Richelieu 1st arr 75001 Paris France,48.8644382,2.3359148,9.41428571429,14,7.46
+71288,Novotel Paris Centre Gare Montparnasse,17 Rue Du Cotentin 15th arr 75015 Paris France,48.838484,2.3150904,7.91700404858,247,8.41388888889
+71535,D clic Hotel,17 rue Duhesme 18th arr 75018 Paris France,48.8908018,2.3380204,8.95762711864,59,8.35714285714
+71594,Villa d Estr es,17 rue g t le coeur 6th arr 75006 Paris France,48.8535089,2.3425787,8.91724137931,29,8.0
+73015,Hotel Plaza Elys es,177 Boulevard Haussmann 8th arr 75008 Paris France,48.8746128,2.3056956,8.65523809524,105,8.18653846154
+73120,Hotel Champs Elys es Friedland by Happyculture,177 rue du faubourg Saint Honor 8th arr 75008 Paris France,48.8750848,2.3048372,8.90285714286,105,8.33898305085
+76390,Pullman Paris Tour Eiffel,18 Avenue De Suffren Entr e au 22 rue Jean Rey 15th arr 75015 Paris France,48.8555664,2.2926243,8.60106382979,846,8.59789719626
+77829,Hotel Bachaumont,18 rue Bachaumont 2nd arr 75002 Paris France,48.8663208,2.3450399,8.97692307692,156,8.48636363636
+77985,Franklin Roosevelt,18 rue Clement Marrot 8th arr 75008 Paris France,48.8678432,2.3033075,8.83636363636,88,8.30285714286
+78073,H tel Horset Op ra Best Western Premier Collection,18 Rue d Antin 2nd arr 75002 Paris France,48.8691686,2.3337818,8.71206030151,199,8.11636363636
+78272,Best Western Paris Gare Saint Lazare,18 rue de Constantinople 8th arr 75008 Paris France,48.8803752,2.319591,7.38076923077,78,8.01707317073
+78350,Splendide Royal Paris,18 Rue du Cirque 8th arr 75008 Paris France,48.8709627,2.3154141,9.35,16,9.51428571429
+78980,Mercure Paris Alesia,185 Boulevard Brune 14th arr 75014 Paris France,48.8237487,2.324056,8.26081081081,74,8.57457627119
+81043,Hotel The Peninsula Paris,19 avenue Kleber 16th arr 75116 Paris France,48.8710605,2.2933537,9.3275862069,58,9.69230769231
+81101,Le Narcisse Blanc Spa,19 Boulevard De La Tour Maubourg 7th arr 75007 Paris France,48.8605125,2.3106533,9.67192982456,57,9.24210526316
+81473,H tel Les Dames du Panth on,19 place du Panth on 5th arr 75005 Paris France,48.845743,2.34493,8.95,70,8.48181818182
+81543,H tel Victor Hugo Paris Kl ber,19 Rue Copernic 16th arr 75016 Paris France,48.8690198,2.2891278,8.30833333333,48,7.30606060606
+81591,Grand Hotel Saint Michel,19 Rue Cujas 5th arr 75005 Paris France,48.8478399,2.342254,8.89870967742,155,8.60875
+81746,Hotel Maison Ath n e,19 Rue De Caumartin 9th arr 75009 Paris France,48.8713421,2.3280723,9.03186813187,91,8.11935483871
+81837,Relais Du Louvre,19 Rue Des Pretres Saint Germain L Auxerrois 1st arr 75001 Paris France,48.8592264,2.340996,8.97159090909,88,8.774
+81925,Pullman Paris Montparnasse,19 Rue du Commandant Ren Mouchotte 14th arr 75014 Paris France,48.8382943,2.3210421,7.90263157895,266,8.44768211921
+82191,Best Western Ducs de Bourgogne,19 Rue Du Pont Neuf 1st arr 75001 Paris France,48.8603483,2.3440535,7.47394366197,142,8.36875
+82333,Best Western Premier Op ra Opal,19 Rue Tronchet 8th arr 75008 Paris France,48.8722588,2.3257608,8.82127659574,141,8.14782608696
+82474,Amarante Champs Elys es,19 Rue Vernet 8th arr 75008 Paris France,48.8717649,2.2983855,7.62058823529,102,7.82272727273
+85180,H tel Ad le Jules,2 4bis Cit Rougemont 9th arr 75009 Paris France,48.8721062,2.3451384,9.18426966292,89,8.97903225806
+87052,Molitor Paris MGallery by Sofitel,2 avenue la Porte Molitor 16th arr 75016 Paris France,48.8448902,2.252833,8.67671232877,73,9.11034482759
+87125,First Hotel Paris Tour Eiffel,2 Bd Garibaldi 15th arr 75015 Paris France,48.8475112,2.3022198,8.2875,72,8.31666666667
+88755,H tel Regina,2 place des Pyramides 1st arr 75001 Paris France,48.8637503,2.3320406,9.16209677419,372,8.68429319372
+89127,Mercure Paris Gare De Lyon TGV,2 place Louis Armand 12th arr 75012 Paris France,48.8442949,2.3730938,7.86812652068,411,7.95848214286
+89538,Villa Montparnasse,2 Rue Boulard 14th arr 75014 Paris France,48.8349272,2.3295913,7.94230769231,52,7.13157894737
+89590,H tel des Champs Elys es,2 Rue d Artois 8th arr 75008 Paris France,48.8722884,2.3090359,8.57431693989,183,8.12966101695
+89773,Lyric H tel Paris,2 rue de Gramont 2nd arr 75002 Paris France,48.8690126,2.3368708,9.14226804124,97,8.41041666667
+89870,Hotel Design Secret de Paris,2 Rue De Parme 9th arr 75009 Paris France,48.8814056,2.3282568,9.36666666667,93,8.91296296296
+89963,Hotel Dupond Smith,2 rue des Guillemites 4th arr 75004 Paris France,48.857898,2.3571978,9.48260869565,23,8.97692307692
+89986,Okko Hotels Paris Porte De Versailles,2 Rue du Colonel Pierre Avia 15th arr 75015 Paris France,48.8327729,2.2787597,9.08372093023,43,9.58461538462
+90029,La Villa Royale,2 Rue Duperr 9th arr 75009 Paris France,48.8821595,2.3367444,8.19868421053,76,7.88571428571
+90105,Hotel Indigo Paris Opera,2 Rue Edouard VII 9th arr 75009 Paris France,48.8704371,2.329236,8.99391304348,115,9.2487804878
+90220,Villa Opera Drouot,2 rue Geoffroy Marie 9th arr 75009 Paris France,48.8732231,2.3436097,8.390625,96,8.42368421053
+90316,Novotel Paris Gare De Lyon,2 Rue Hector Malot 12th arr 75012 Paris France,48.8453785,2.3753036,8.41448763251,566,8.63711048159
+90882,H tel Belloy Saint Germain By Happyculture,2 Rue Racine 6th arr 75006 Paris France,48.8503901,2.3422527,8.32926829268,82,8.22258064516
+90964,Hotel Louis 2,2 Rue Saint Sulpice 6th arr 75006 Paris France,48.8516148,2.3381293,8.78545454545,55,7.77647058824
+91019,InterContinental Paris Le Grand,2 Rue Scribe 9th arr 75009 Paris France,48.8708391,2.3303651,8.70933333333,150,8.90074074074
+95811,H tel Le M,20 bis rue de la Ga t 14th arr 75014 Paris France,48.8397623,2.3235324,8.22671755725,131,8.15394736842
+99327,Seven Hotel,20 rue Berthollet 5th arr 75005 Paris France,48.8389823,2.3455528,8.64583333333,48,8.27419354839
+99375,Platine Hotel Spa,20 rue de l Ing nieur Robert Keller 15th arr 75015 Paris France,48.8473459,2.2832408,8.86548672566,113,7.98775510204
+99488,Mercure Paris Gare Montparnasse,20 Rue De La Ga t 14th arr 75014 Paris France,,,7.97567567568,37,7.50454545455
+99525,Mercure Paris Notre Dame Saint Germain des Pr s,20 rue du Sommerard 5th arr 75005 Paris France,48.8503074,2.3450612,8.18133333333,75,7.51428571429
+99600,Mercure Paris Centre Tour Eiffel,20 Rue Jean Rey 15th arr 75015 Paris France,48.8548641,2.2923181,7.86511024643,771,8.31231231231
+100371,Banke H tel,20 Rue La Fayette 9th arr 75009 Paris France,48.8735736,2.335965,8.45471698113,159,8.30333333333
+102541,Saint James Albany Paris Hotel Spa,202 rue de Rivoli 1st arr 75001 Paris France,48.8642689,2.3308179,7.95114285714,700,8.11515151515
+103241,Mercure Paris Montparnasse Raspail,207 Boulevard Raspail 14th arr 75014 Paris France,48.8412131,2.3302954,8.3835443038,79,7.80810810811
+103320,Golden Tulip Bercy Gare de Lyon 209,209 211 rue de Charenton 12th arr 75012 Paris France,48.8393229,2.3892274,8.66547619048,168,8.80740740741
+103488,Montfleuri,21 Avenue De La Grande Arm e 16th arr 75016 Paris France,48.8747153,2.2906388,8.33333333333,228,8.01904761905
+103831,Mercure Paris Pigalle Sacre Coeur,21 Boulevard De Clichy 9th arr 75009 Paris France,48.8823398,2.3364764,7.96769230769,65,8.79090909091
+104414,Mercure Paris Terminus Nord,21 rue de Dunkerque 10th arr 75010 Paris France,48.8794843,2.3556545,7.44496230295,1459,7.31135135135
+105873,H tel F licien by Elegancia,21 rue F licien David 16th arr 75016 Paris France,48.8493082,2.2743626,8.45454545455,66,8.29411764706
+105939,Le Lavoisier,21 rue Lavoisier 8th arr 75008 Paris France,48.8737702,2.3201063,7.83333333333,12,8.5
+105951,H tel Moli re,21 rue Moli re 1st arr 75001 Paris France,48.8655293,2.3360102,9.37338709677,124,8.95287356322
+106075,Vice Versa,213 rue de la Croix Nivert 15th arr 75015 Paris France,48.8363819,2.2897793,8.29661016949,59,8.305
+106220,H tel Etoile Saint Honor by Happyculture,214 rue du Faubourg Saint Honor 8th arr 75008 Paris France,48.8756508,2.3041568,8.23092105263,152,8.15523809524
+106372,Hotel Le petit Paris,214 rue Saint Jacques 5th arr 75005 Paris France,48.8452789,2.342295,8.93333333333,57,8.61
+106429,Mercure Paris 19 Philharmonie La Villette,216 Avenue Jean Jaures 19th arr 75019 Paris France,48.8886969,2.3945403,6.91296296296,54,8.43235294118
+106483,Royal Garden Champs Elysees,218 220 rue du Faubourg St Honor 8th arr 75008 Paris France,48.8757155,2.3038781,7.05099009901,202,7.73739130435
+106685,H tel Brighton Esprit de France,218 rue de Rivoli 1st arr 75001 Paris France,48.8649306,2.3290844,8.69084507042,284,8.72063492063
+106969,H tel Paris Bastille Boutet MGallery by Sofitel,22 24 Rue Faidherbe 11th arr 75011 Paris France,48.8519215,2.3839993,8.79365079365,63,8.81111111111
+108105,L Edmond H tel,22 avenue de Villiers 17th arr 75017 Paris France,48.8823111,2.3132374,8.22,20,8.18333333333
+108125,Novotel Suites Paris Montreuil Vincennes,22 Avenue du professeur lemierre 20th arr 75020 Paris France,48.8554268,2.4152555,7.24375,192,8.22181818182
+110997,H tel France d Antin Op ra,22 rue d Antin 2nd arr 75002 Paris France,48.8692566,2.3339369,8.75666666667,30,7.5375
+111027,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,22 Rue Danielle Casanova 1st arr 75002 Paris France,48.8681455,2.3313064,9.46551724138,29,7.19166666667
+111056,H tel De Buci by MH,22 rue de Buci 6th arr 75006 Paris France,48.8538752,2.3366123,9.07931034483,58,8.575
+111114,Hotel Parc Saint Severin Esprit de France,22 Rue de La Parcheminerie 5th arr 75005 Paris France,48.8518584,2.3447798,9.18888888889,162,8.91538461538
+111276,Hotel Chavanel,22 Rue Tronchet 8th arr 75008 Paris France,48.8721692,2.3262681,8.61428571429,14,8.8
+111389,Royal Saint Honore,221 Rue Saint Honore 1st arr 75001 Paris France,48.8658792,2.3298903,8.60735294118,136,8.5875
+115063,Le Meurice,228 Rue De Rivoli 1st arr 75001 Paris France,48.8653685,2.328218,9.2075,40,9.47619047619
+115103,Maison Albar Hotel Paris C line,23 25 rue de Pont Neuf 1st arr 75001 Paris France,48.8606187,2.344401,9.0064516129,62,8.72631578947
+116738,Holiday Inn Paris Montmartre,23 Rue Damr mont 18th arr 75018 Paris France,,,8.43272727273,55,7.95238095238
+116793,Hotel Pulitzer Paris,23 rue du Faubourg Montmartre 9th arr 75009 Paris France,48.8731996,2.3425446,8.208,200,8.72
+116993,Hotel Vignon,23 Rue Vignon 8th arr 75008 Paris France,48.8717146,2.3261812,8.77394957983,119,8.84769230769
+117226,H tel Aiglon Esprit de France,232 Boulevard Raspail 14th arr 75014 Paris France,48.8396623,2.3300582,8.96089108911,202,8.79663865546
+120883,Hotel Elys es Bassano,24 rue Bassano 16th arr 75016 Paris France,48.8689307,2.2974503,7.85950413223,121,7.95568181818
+121004,Hotel Opera Cadet,24 rue Cadet 9th arr 75009 Paris France,48.8754371,2.3434586,8.58923076923,65,8.32424242424
+121069,Phileas Hotel,24 Rue d Amsterdam 9th arr 75009 Paris France,48.8768854,2.3270623,8.5609375,192,8.99340659341
+121261,Holiday Inn Paris Elys es,24 Rue De Miromesnil 8th arr 75008 Paris France,48.8730437,2.3161144,7.71111111111,63,8.41363636364
+121324,H tel Beauchamps,24 rue de Ponthieu 8th arr 75008 Paris France,48.87096,2.3091617,7.98823529412,289,8.25911330049
+121613,Best Western Nouvel Orl ans Montparnasse,25 avenue du General Leclerc 14th arr 75014 Paris France,48.8309896,2.3297301,8.04597701149,174,8.2175
+121787,Hotel Plaza Athenee Paris,25 Avenue Montaigne 8th arr 75008 Paris France,48.8661932,2.3042141,9.56666666667,36,9.01764705882
+121823,Mercure Paris Place d Italie,25 Boulevard Auguste Blanqui 13th arr 75013 Paris France,48.830196,2.3529539,7.84814814815,27,8.00769230769
+122341,H tel Da Vinci Spa,25 rue des Saints P res 6th arr 75006 Paris France,48.8565778,2.3319767,9.21506849315,146,8.77692307692
+122487,XO Hotel,25 Rue Theodore de Banville 17th arr 75017 Paris France,48.8827492,2.2982782,8.82307692308,13,9.9
+122500,H tel Vernet,25 Rue Vernet 8th arr 75008 Paris France,48.871859,2.2978177,8.56320754717,106,8.652
+122606,Mandarin Oriental Paris,251 rue Saint Honor 1st arr 75001 Paris France,48.8671889,2.326927,9.14285714286,21,9.01
+123017,Novotel Paris Vaugirard Montparnasse,257 Rue De Vaugirard 15th arr 75015 Paris France,48.8399018,2.3031011,7.4837962963,216,7.77552447552
+127003,Mercure Paris Arc de Triomphe Etoile,27 avenue des Ternes 17th arr 75017 Paris France,48.8782679,2.294852,8.29047619048,21,7.572
+129479,Forest Hill Paris la Villette,28 av Corentin Cariou 19th arr 75019 Paris France,48.8969854,2.3852745,7.39288702929,239,7.92781456954
+129961,Le Pavillon de la Reine Spa,28 place des Vosges 3rd arr 75003 Paris France,48.8562725,2.3660412,9.31932773109,119,9.00810810811
+130080,Hidden Hotel by Elegancia,28 Rue de l Arc de Triomphe 17th arr 75017 Paris France,48.8775326,2.293458,9.28,80,8.65
+130160,Le Roch Hotel Spa,28 rue Saint Roch 1st arr 75001 Paris France,48.8661991,2.3328826,9.10434782609,23,8.81538461538
+132062,Hotel du Petit Moulin,29 31 rue de Poitou 3rd arr 75003 Paris France,48.8615843,2.3620652,9.31212121212,66,8.73157894737
+132128,Hotel Atmospheres,29 31 rue des Ecoles 5th arr 75005 Paris France,48.8485387,2.3479852,8.69419354839,155,8.71
+132283,H tel La Comtesse by Elegancia,29 Avenue De Tourville 7th arr 75007 Paris France,48.853865,2.3072019,9.04684684685,111,8.87906976744
+132394,Hotel Astra Opera Astotel,29 rue Caumartin 9th arr 75009 Paris France,48.8718321,2.3278866,8.25294117647,34,8.61739130435
+132428,Hotel La Villa Saint Germain Des Pr s,29 Rue Jacob 6th arr 75006 Paris France,48.8553486,2.3340736,9.12549019608,51,9.06060606061
+132479,Grand Pigalle Hotel,29 rue Victor Mass 9th arr 75009 Paris France,48.880856,2.3375085,9.19210526316,114,8.95810810811
+133406,Hotel Duminy Vendome,3 5 rue du Mont Thabor 1st arr 75001 Paris France,48.8654726,2.3292934,8.29666666667,150,8.00921052632
+133556,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,3 avenue Mac Mahon 17th arr 75017 Paris France,48.8753837,2.2944651,8.12264150943,159,8.77692307692
+134362,H tel Recamier,3 Bis Place Saint Sulpice 6th arr 75006 Paris France,48.8503493,2.3344305,8.97954545455,44,9.02307692308
+134406,TRYP Paris Op ra,3 Boulevard Montmartre 2nd arr 75002 Paris France,48.8713619,2.3426375,7.96478873239,71,7.41
+134477,Royal Saint Michel,3 Boulevard Saint Michel 5th arr 75005 Paris France,48.8528364,2.3440803,8.20070422535,284,7.525
+135430,Hyatt Regency Paris Etoile,3 Place du G n ral Koenig 17th arr 75017 Paris France,48.8802782,2.2843852,6.82448512586,874,7.66130536131
+136304,Relais Saint Jacques,3 Rue Abb De L Ep e 5th arr 75005 Paris France,48.8430523,2.3422519,8.77333333333,120,8.55573770492
+136424,Hotel Cambon,3 Rue Cambon 1st arr 75001 Paris France,48.866435,2.3251076,8.31272727273,55,8.28541666667
+136479,Mercure Paris Montmartre Sacr Coeur,3 Rue Caulaincourt 18th arr 75018 Paris France,48.8852794,2.3301021,8.28624535316,269,8.59245283019
+136748,Relais Christine,3 Rue Christine 6th arr 75006 Paris France,48.8542454,2.339956,9.08369565217,92,9.12542372881
+136840,Les Matins de Paris Spa,3 rue Clauzel 9th arr 75009 Paris France,48.878932,2.3394182,8.3,63,9.3
+136903,Hotel Square,3 Rue De Boulainvilliers 16th arr 75016 Paris France,48.851589,2.2777274,8.31071428571,28,8.85333333333
+136931,H tel Bourgogne Montana by MH,3 rue de Bourgogne 7th arr 75007 Paris France,48.8601927,2.318423,9.0842519685,127,8.588
+137058,The Westin Paris Vend me,3 rue de Castiglione 1st arr 75001 Paris France,48.8657394,2.3274415,7.81621621622,111,8.54366197183
+137169,Hotel Montalembert,3 Rue de Montalembert 7th arr 75007 Paris France,48.8567042,2.3277805,8.50227272727,44,8.49545454545
+137213,H tel Mathis Elys es,3 rue de Ponthieu 8th arr 75008 Paris France,48.8700325,2.3112736,8.71855670103,194,8.64857142857
+137407,Le Saint Hotel Paris,3 rue du Pr aux Clercs 7th arr 75007 Paris France,48.8565421,2.3303504,8.82142857143,42,8.771875
+137449,Hotel Le Squara,3 rue Lepic 18th arr 75018 Paris France,48.884165,2.3328261,8.20573770492,122,8.55555555556
+137571,L Hotel Pergol se Paris,3 Rue Pergolese 16th arr 75116 Paris France,48.8756618,2.2863468,8.19128205128,195,8.21349206349
+137766,H tel Mayfair Paris,3 Rue Rouget De Lisle 1st arr 75001 Paris France,48.8661363,2.3260648,8.71176470588,51,8.08461538462
+137817,Best Western Plus de Neuville Arc de Triomphe,3 Rue Verniquet 17th arr 75017 Paris France,48.8869128,2.3004034,8.18591549296,71,7.78709677419
+138360,Holiday Inn Paris Op ra Grands Boulevards,30 32 Boulevard Poissonni re 9th arr 75009 Paris France,48.8715469,2.3439622,7.99545454545,110,8.59473684211
+143660,Le Belmont Champs Elys es,30 Rue de Bassano 16th arr 75016 Paris France,48.8691984,2.2979052,8.22168674699,83,8.41607142857
+143743,Duret,30 Rue Duret 16th arr 75016 Paris France,48.8752553,2.286653,8.58684210526,38,7.95625
+143781,H tel Elysees Mermoz,30 Rue Jean Mermoz 8th arr 75008 Paris France,48.8715079,2.3122259,8.76728971963,107,8.61428571429
+143888,Majestic Hotel Spa,30 Rue La P rouse 16th arr 75016 Paris France,48.8703672,2.2938868,8.48421052632,38,8.94848484848
+143926,BoB Hotel by Elegancia,30 rue Pernety 14th arr 75014 Paris France,48.8335233,2.3191194,8.9387755102,49,9.09677419355
+146513,Four Seasons Hotel George V Paris,31 Avenue George V 8th arr 75008 Paris France,48.8687512,2.3001692,9.48181818182,121,9.1
+147195,H tel Fabric,31 rue de la Folie M ricourt 11th arr 75011 Paris France,48.8629329,2.3723823,9.55922330097,103,8.77647058824
+147298,H tel du Minist re,31 Rue de Surene 8th arr 75008 Paris France,48.8712877,2.3191903,8.78689320388,206,8.83253012048
+148617,Hotel Les Bulles De Paris,32 rue des Ecoles 5th arr 75005 Paris France,48.849147,2.3471935,8.20503144654,159,8.18461538462
+148776,Acad mie H tel Saint Germain,32 rue des Saints P res 7th arr 75007 Paris France,48.855263,2.3305901,9.06470588235,255,8.84433962264
+149031,Plaza Tour Eiffel,32 Rue Greuze 16th arr 75016 Paris France,48.8645647,2.2821827,8.44328358209,67,8.6027027027
+151206,Royal Hotel Champs Elys es,33 avenue de Friedland 8th arr 75008 Paris France,48.8740463,2.300196,7.73904761905,210,8.13150684932
+151416,Best Western Allegro Nation,33 Avenue Du Docteur Arnold Netter 12th arr 75012 Paris France,48.8430891,2.4049867,7.06486486486,37,9.5
+151453,Prince de Galles a Luxury Collection hotel Paris,33 avenue George V 8th arr 75008 Paris France,48.869143,2.3006526,8.7525,40,9.23571428571
+151703,H tel La Parizienne by Elegancia,33 Boulevard du Montparnasse 6th arr 75006 Paris France,48.8450894,2.3209503,8.7,124,8.02307692308
+151827,Madeleine Plaza,33 place de la Madeleine 8th arr 75008 Paris France,48.8710402,2.3248014,8.63405797101,138,7.96351351351
+152041,Castille Paris Starhotels Collezione,33 Rue Cambon 1st arr 75001 Paris France,48.8682978,2.3268027,8.63067484663,163,8.79658119658
+152204,H tel D Aubusson,33 Rue Dauphine 6th arr 75006 Paris France,48.8547329,2.3395277,9.55204081633,294,9.18815165877
+152498,Hotel Oscar,33 rue Marbeuf 8th arr 75008 Paris France,48.8694755,2.3046954,8.79404761905,84,8.15694444444
+152582,Best Western Bretagne Montparnasse,33 rue Raymond Losserand 14th arr 75014 Paris France,48.8354314,2.321142,7.67446808511,188,7.74
+154810,Novotel Paris 17,34 Avenue Porte d Asni res 17th arr 75017 Paris France,48.8920485,2.3023791,7.70099009901,101,8.27924528302
+157216,Artus Hotel by MH,34 Rue de Buci 6th arr 75006 Paris France,48.8535639,2.3360169,9.13793103448,58,8.84
+157274,Best Western Premier Kapital Op ra,34 rue de Moscou 8th arr 75008 Paris France,48.8814425,2.3235592,8.86606498195,277,8.96666666667
+157551,Timhotel Op ra Blanche Fontaine,34 Rue Fontaine 9th arr 75009 Paris France,48.8825781,2.3334805,8.62580645161,93,8.03793103448
+157644,H tel Amastan Paris,34 rue Jean Mermoz 8th arr 75008 Paris France,48.8716831,2.3123759,9.20294117647,34,8.85
+157678,H tel Gustave,34 Rue Viala 15th arr 75015 Paris France,48.8502052,2.289043,8.71393939394,165,9.00882352941
+158391,Best Western Tour Eiffel Invalides,35 Boulevard de la tour Maubourg 7th arr 75007 Paris France,48.8593152,2.3104179,7.85135135135,74,7.975
+159365,Eiffel Trocad ro,35 Rue Benjamin Franklin 16th arr 75016 Paris France,48.8613055,2.2862823,7.99921875,128,8.00217391304
+159493,Hotel Saint Petersbourg Opera,35 Rue Caumartin 9th arr 75009 Paris France,48.872174,2.328075,8.92140992167,383,8.86113744076
+159876,H tel Champs lys es Plaza,35 Rue De Berri 8th arr 75008 Paris France,48.8737043,2.3061477,9.02615384615,65,8.29230769231
+159941,Melia Paris Tour Eiffel,35 Rue Jean Goujon 8th arr 75008 Paris France,48.8651994,2.3045076,7.92641509434,53,8.51818181818
+159994,Timhotel Op ra Grands Magasins,35 Rue La Bruy re 9th arr 75009 Paris France,48.8794682,2.3334957,8.42151898734,79,8.07674418605
+162238,Mercure Paris Porte De Versailles Expo,36 38 Rue Du Moulin 92170 Paris France,48.8268251,2.2912033,7.575,40,7.90833333333
+162798,Hotel Whistler,36 rue de Saint Quentin 10th arr 75010 Paris France,48.879314,2.3560185,9.31071428571,28,8.91818181818
+162826,Hotel Georgette,36 rue du Grenier Saint Lazare 3rd arr 75003 Paris France,48.8632723,2.352691,9.0137254902,51,8.41071428571
+162877,Westside Arc de Triomphe Hotel,36 rue Pierre Demours 17th arr 75017 Paris France,48.8811741,2.2948337,8.16552901024,293,7.9843373494
+163170,Etoile Saint Ferdinand,36 rue Saint Ferdinand 17th arr 75017 Paris France,48.8777895,2.2872498,8.33737373737,99,8.23272727273
+163269,H tel Saint Marc,36 Rue Saint Marc 2nd arr 75002 Paris France,48.8708863,2.3382128,9.41315789474,76,9.10454545455
+163568,H tel Le Walt,37 Avenue De La Motte Picquet 7th arr 75007 Paris France,48.8547161,2.306642,9.1380952381,63,8.2675
+163631,H tel Le Royal Monceau Raffles Paris,37 Avenue Hoche 8th arr 75008 Paris France,48.8756359,2.3004967,8.99090909091,22,10.4333333333
+164072,Hotel Claridge Paris,37 rue Fran ois 1er 8th arr 75008 Paris France,48.8684243,2.3036244,8.32780748663,187,7.745
+168515,H tel L Echiquier Op ra Paris MGallery by Sofitel,38 rue de l Echiquier 10th arr 75010 Paris France,48.8719889,2.3492913,9.25467625899,139,8.85842696629
+168654,H tel De Castiglione,38 Rue Du Faubourg Saint Honore 8th arr 75008 Paris France,48.8691758,2.3205807,7.11094527363,201,7.35169491525
+170205,Edouard 7 Paris Op ra,39 Avenue de l Op ra 2nd arr 75002 Paris France,48.8683133,2.3330851,9.07445652174,184,9.15875
+170389,Renaissance Paris Arc de Triomphe Hotel,39 Avenue de Wagram 17th arr 75017 Paris France,48.8772093,2.2968266,8.42916666667,48,8.36111111111
+174335,Novotel Suites Paris Expo Porte de Versailles,4 Boulevard Brune 14th arr 75014 Paris France,48.827388,2.305478,8.72412280702,228,8.99010989011
+174563,K K H tel Cayr Saint Germain des Pr s,4 Boulevard Raspail 7th arr 75007 Paris France,48.8553117,2.3254628,8.44969325153,326,8.31649484536
+176905,Le Grand H tel de Normandie,4 rue Amsterdam 9th arr 75009 Paris France,48.8759461,2.3270955,7.20666666667,30,8.12857142857
+176935,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,4 rue Cadet 9th arr 75009 Paris France,48.8742767,2.3426276,8.77258064516,62,8.575
+176997,H tel de La Tamise Esprit de France,4 rue d Alger 1st arr 75001 Paris France,48.8648656,2.3295756,9.68852459016,61,9.45
+177058,Buddha Bar Hotel Paris,4 rue d Anjou 8th arr 75008 Paris France,48.8694695,2.3208564,8.59487179487,117,9.04742268041
+177175,Le A,4 rue d Artois 8th arr 75008 Paris France,48.8723844,2.3088663,9.15714285714,91,8.59210526316
+177266,Holiday Inn Paris Notre Dame,4 rue Danton 6th arr 75006 Paris France,48.8528427,2.3422256,8.47674418605,301,7.89696969697
+177567,Mercure Paris Opera Garnier,4 Rue de L Isly 8th arr 75008 Paris France,48.8749511,2.3259532,8.26222222222,90,7.75238095238
+177657,Maison Albar Hotel Paris Op ra Diamond,4 rue de la P pini re 8th arr 75008 Paris France,,,8.74103448276,290,8.89941860465
+177947,Grand H tel Du Palais Royal,4 Rue De Valois 1st arr 75001 Paris France,48.8630829,2.3378592,9.32087378641,206,8.99075630252
+178153,Best Western Aulivia Op ra,4 Rue des Petites Ecuries 10th arr 75010 Paris France,48.8730552,2.3540112,7.844,100,7.7137254902
+178253,Renaissance Paris Vendome Hotel,4 Rue Du Mont Thabor 1st arr 75001 Paris France,48.8654532,2.3295231,8.57857142857,14,7.16923076923
+178267,Hotel Park Lane Paris,4 Rue La Boetie 8th arr 75008 Paris France,48.8745879,2.3188143,8.63376623377,154,8.82592592593
+178421,Little Palace Hotel,4 rue Salomon de Caus 3rd arr 75003 Paris France,48.8675674,2.3539896,8.35841584158,303,7.91084337349
+178724,Napoleon Paris,40 avenue de Friedland 8th arr 75008 Paris France,48.8743885,2.2980915,8.54615384615,234,8.44098360656
+179623,H tel de Lille,40 rue de Lille 7th arr 75007 Paris France,48.8585626,2.3299138,9.05277777778,144,8.61794871795
+179767,H tel Concorde Montparnasse,40 Rue du Commandant Ren Mouchotte 14th arr 75014 Paris France,48.8381079,2.318669,7.60867052023,692,8.78421052632
+180459,Suites H tel Helzear Montparnasse,40 rue Liancourt 14th arr 75014 Paris France,48.8346811,2.3255098,7.86538461538,78,8.8625
+180537,Renaissance Paris Republique Hotel Spa,40 Rue Rene Boulanger 10th arr 75010 Paris France,48.8687804,2.3610196,8.82307692308,13,7.9
+185094,Elys es R gencia,41 Avenue Marceau 16th arr 75016 Paris France,48.8686434,2.2984054,8.17826086957,276,8.2375
+185370,H tel De Sers Champs Elys es Paris,41 Avenue Pierre 1er de Serbie 8th arr 75008 Paris France,48.8683593,2.3002117,8.8375,80,8.06451612903
+185450,Hotel le Lapin Blanc,41 boulevard Saint Michel 5th arr 75005 Paris France,48.8491801,2.3423357,9.13026315789,152,9.03698630137
+186442,H tel R de Paris Boutique Hotel,41 rue de Clichy 9th arr 75009 Paris France,48.8799239,2.3288332,9.3407079646,113,8.71690140845
+186555,Villa Panth on,41 Rue Des Ecoles 5th arr 75005 Paris France,48.8488044,2.3469889,8.16811594203,276,7.95079365079
+186831,Trinit Haussmann,41 rue Jean Baptiste Pigalle 9th arr 75009 Paris France,48.8800565,2.3342353,8.36393442623,61,8.49166666667
+188525,H tel Crayon Rouge by Elegancia,42 rue Croix des Petits Champs 1st arr 75001 Paris France,48.8644967,2.3405415,8.96951219512,82,9.13157894737
+188607,Mercure Paris Opera Grands Boulevards,42 Rue Des Petites Ecuries 10th arr 75010 Paris France,48.8740668,2.3502172,8.03538461538,65,7.928125
+189884,Hotel Le Saint Gregoire,43 Rue De l Abb Gr goire 6th arr 75006 Paris France,48.8471891,2.3260138,8.245,20,9.35
+189904,Le Mathurin Hotel Spa,43 Rue des Mathurins 8th arr 75008 Paris France,48.8732068,2.3239015,8.4,158,8.83407407407
+190062,H tel Saint Paul Rive Gauche,43 rue Monsieur le Prince 6th arr 75006 Paris France,48.8496819,2.3402806,9.25333333333,45,8.264
+191620,H tel de Varenne,44 rue de Bourgogne 7th arr 75007 Paris France,48.8570275,2.3170282,8.84105263158,95,8.46071428571
+191715,A La Villa Madame,44 Rue Madame 6th arr 75006 Paris France,48.8488608,2.3315257,8.85365853659,41,8.70833333333
+192504,Le Tsuba Hotel,45 Rue des Acacias 17th arr 75017 Paris France,48.8777621,2.293177,9.08070175439,57,9.55510204082
+193053,H tel Barri re Le Fouquet s,46 Avenue George V 8th arr 75008 Paris France,48.8710709,2.3013119,8.90857142857,35,9.128
+193516,Hotel Villa Lafayette Paris IX,46 Rue De Tr vise 9th arr 75009 Paris France,48.8760884,2.3456465,9.228,25,6.66
+194356,L Empire Paris,48 Rue De L arbre Sec 1st arr 75001 Paris France,48.8607764,2.3427564,8.77142857143,119,8.32432432432
+194819,Suites H tel Helzear Champs Elys es,49 Avenue Marceau 16th arr 75116 Paris France,48.8691399,2.2981024,8.24801762115,227,8.10267857143
+195168,Best Western Premier Op ra Faubourg Ex Hotel Jules ,49 Rue La Fayette 9th arr 75009 Paris France,48.8753359,2.3414617,8.17306501548,323,7.98487804878
+195491,Pershing Hall,49 rue Pierre Charron 8th arr 75008 Paris France,48.8691325,2.3021659,8.60714285714,14,7.9
+196472,H tel Pont Royal,5 7 Rue De Montalembert 7th arr 75007 Paris France,48.8565629,2.3273623,8.62096774194,62,8.56060606061
+196534,Le G n ral H tel,5 7 rue Rampon 11th arr 75011 Paris France,48.8662695,2.3668616,9.14262295082,122,9.02463768116
+196656,H tel Th r se,5 7 Rue Th r se 1st arr 75001 Paris France,48.8816306,2.2992146,9.07424242424,132,8.89230769231
+196788,Best Western Premier Trocadero La Tour,5 bis rue Massenet 16th arr 75016 Paris France,48.8583127,2.2795075,8.06346153846,52,7.91315789474
+201116,Le Relais M dicis,5 place de l Od on 6th arr 75006 Paris France,48.8497618,2.3392336,8.27666666667,30,8.35
+201146,Les Jardins De La Villa Spa,5 Rue Belidor 17th arr 75017 Paris France,48.8801757,2.2859534,8.93796296296,108,8.502
+201254,Warwick Paris Former Warwick Champs Elysees ,5 rue de Berri 8th arr 75008 Paris France,48.8722019,2.3030866,8.07323600973,411,8.13343465046
+201665,Park Hyatt Paris Vendome,5 rue de la Paix 2nd arr 75002 Paris France,48.8688155,2.3305236,9.14827586207,29,8.612
+201694,My Home In Paris,5 Rue De Malte 11th arr 75011 Paris France,48.8636049,2.3688352,8.95853658537,82,9.47419354839
+201776,Mercure Paris Op ra Faubourg Montmartre,5 Rue de Montyon 9th arr 75009 Paris France,48.8729639,2.3444899,6.82727272727,33,8.66842105263
+201809,Best Western Plus Elys e Secret,5 rue de Ponthieu 8th arr 75008 Paris France,48.8701247,2.311141,7.6990990991,111,7.70158730159
+201920,Villa Beaumarchais,5 rue des Arquebusiers 3rd arr 75003 Paris France,48.8589516,2.3670407,8.32644067797,295,7.65167785235
+202215,H tel Mansart Esprit de France,5 rue des Capucines 1st arr 75001 Paris France,48.8684776,2.3298238,8.575,116,8.6397260274
+202331,Holiday Inn Paris Gare de l Est,5 rue du 8 Mai 1945 10th arr 75010 Paris France,48.8758981,2.3590504,7.76182462356,1129,8.11971830986
+203460,Le Cinq Codet,5 rue Louis Codet 7th arr 75007 Paris France,48.8547869,2.3084819,8.93190661479,257,9.109375
+203717,La Maison Favart,5 Rue Marivaux 2nd arr 75002 Paris France,48.870808,2.3372737,9.30551181102,127,9.02368421053
+203844,Le Pradey,5 Rue Saint Roch 1st arr 75001 Paris France,48.8645309,2.3315532,8.97627118644,59,8.475
+205567,Golden Tulip Washington Opera,50 rue de Richelieu 1st arr 75001 Paris France,48.866242,2.3373169,8.36078431373,102,8.2
+205669,Residence Henri IV,50 rue des Bernardins 5th arr 75005 Paris France,48.8481917,2.3490316,9.33801169591,171,8.49253731343
+205840,Hotel du Collectionneur Arc de Triomphe,51 57 rue de Courcelles 8th arr 75008 Paris France,48.8769204,2.3069132,8.07270029674,337,8.13382352941
+206452,Hotel Le Mareuil,51 Rue de Malte 11th arr 75011 Paris France,48.8659899,2.3674149,9.1914893617,47,8.24761904762
+206499,Mercure Paris Champs Elys es,51 Rue Lauriston 16th arr 75016 Paris France,48.8699731,2.2909401,7.34615384615,39,6.79285714286
+206538,Best Western Le 18 Paris,51 rue Letort 18th arr 75018 Paris France,48.8966167,2.3434843,7.42906976744,86,7.9675
+209267,H tel Powers,52 rue Francois 1er 8th arr 75008 Paris France,48.8691409,2.3031503,8.5552742616,237,8.41208053691
+209504,Villa Lut ce Port Royal,52 rue Jenner 13th arr 75013 Paris France,48.8364204,2.3603332,6.38510638298,47,8.445
+209551,Oceania Paris Porte De Versailles,52 Rue Oradour sur Glane 15th arr 75015 Paris France,48.8303023,2.2842872,8.01721611722,273,8.4918128655
+211177,Mercure Paris Bastille Marais,53 Rue Richard Lenoir 11th arr 75011 Paris France,48.8571207,2.3805581,7.87352941176,34,8.408
+212179,Chateau Frontenac,54 rue Pierre Charron 8th arr 75008 Paris France,48.8689468,2.3026559,8.5420212766,188,8.4582010582
+212367,H tel Du Jeu De Paume,54 Rue Saint Louis En L Ile 4th arr 75004 Paris France,48.8520377,2.3557092,8.97924528302,106,8.21475409836
+213144,Renaissance Paris Le Parc Trocadero Hotel,55 57 Avenue Raymond Poincare 16th arr 75016 Paris France,48.8673099,2.2856528,8.23846153846,26,7.74
+214716,Hotel Carlton s Montmartre,55 Bld Rochechouart 9th arr 75009 Paris France,48.8819068,2.3410005,7.45333333333,90,8.64324324324
+214806,Hotel Monge,55 rue Monge 5th arr 75005 Paris France,48.8447938,2.3524462,9.50782608696,115,9.21212121212
+215311,Victoires Opera,56 rue de Montorgueil 2nd arr 75002 Paris France,48.8648997,2.3469433,7.1914893617,47,7.953125
+217984,Le Burgundy Paris,6 8 Rue Duphot 1st arr 75001 Paris France,48.8680055,2.3260075,9.02857142857,161,9.20550458716
+218145,Hotel Sezz Paris,6 Avenue Fr miet 16th arr 75016 Paris France,48.8566336,2.2852607,8.05,24,9.0
+218169,Hotel Montaigne,6 Avenue Montaigne 8th arr 75008 Paris France,48.865467,2.3038811,7.82471910112,89,8.46029411765
+218258,Hotel Royal Elys es,6 Avenue Victor Hugo 16th arr 75116 Paris France,48.8729666,2.2926226,7.45333333333,45,6.43333333333
+218303,Mercure Paris Bercy Biblioth que,6 Boulevard Vincent Auriol 13th arr 75013 Paris France,48.8370334,2.372322,8.1136,125,8.84197530864
+220059,H tel Balzac,6 rue Balzac 8th arr 75008 Paris France,48.8732785,2.3004174,8.08072289157,166,8.61111111111
+220225,Victoria Palace Hotel,6 Rue Blaise Desgoffe 6th arr 75006 Paris France,48.8457587,2.3243071,8.12083333333,24,8.60714285714
+220249,Hotel Eug ne en Ville,6 rue Buffault 9th arr 75009 Paris France,48.8750119,2.3416769,8.20890052356,191,8.45263157895
+220440,Newhotel Roblin,6 rue Chauveau Lagarde 8th arr 75008 Paris France,48.8714152,2.3239679,8.80295202952,271,8.79398496241
+220711,Le Relais Montmartre,6 Rue Constance 18th arr 75018 Paris France,48.8854538,2.3335809,9.25054945055,182,9.4
+220893,Amarante Beau Manoir,6 Rue de l Arcade 8th arr 75008 Paris France,48.870994,2.3235329,6.91886792453,159,7.80405405405
+221052,Hotel Maison FL,6 Rue De La Tour 16th arr 75016 Paris France,48.8396395,2.2663056,8.92450980392,102,8.39054054054
+221154,Balmoral Champs Elys es,6 rue du General Lanrezac 17th arr 75017 Paris France,48.8759855,2.293938,8.90877192982,114,8.37837837838
+221268,The Chess Hotel,6 rue du Helder 9th arr 75009 Paris France,48.8716017,2.3349768,8.92978723404,235,8.15454545455
+221503,AC Hotel Paris Porte Maillot by Marriott,6 rue Gustave Charpentier 17th arr 75017 Paris France,48.8820046,2.2818538,8.42533333333,75,8.59491525424
+221578,B Montmartre,6 Rue Lecluse 17th arr 75017 Paris France,48.883631,2.3257643,9.43666666667,90,8.73695652174
+221668,H tel Regent s Garden,6 Rue Pierre Demours 17th arr 75017 Paris France,48.8797513,2.2919634,9.10989010989,91,9.08421052632
+221759,Mercure Paris 15 Porte de Versailles,6 Rue Saint Lambert 15th arr 75015 Paris France,48.8382542,2.2903494,7.828,25,8.28666666667
+221784,Hotel Le Placide Saint Germain Des Pr s,6 Rue Saint Placide 6th arr 75006 Paris France,48.8498439,2.3244253,8.32083333333,24,8.59
+223241,Nell Hotel Suites,60 rue Richer 9th arr 75009 Paris France,48.8741002,2.3426357,8.98444444444,45,8.42272727273
+224921,Novotel Paris Centre Tour Eiffel,61 Quai De Grenelle 15th arr 75015 Paris France,48.8500283,2.2834126,7.41448692153,497,7.86959064327
+225418,Best Western Plus 61 Paris Nation Hotel,61 rue de la Voute 12th arr 75012 Paris France,48.8465653,2.4102405,7.30945945946,74,8.30208333333
+225492,Hotel Monsieur,62 Rue Des Mathurins 8th arr 75008 Paris France,48.8735135,2.3217457,9.20055555556,180,8.53116883117
+225672,Hotel Saint Dominique,62 Rue Saint Dominique 7th arr 75007 Paris France,48.8599998,2.3087425,8.76446280992,121,8.57
+226912,Hotel Malte Astotel,63 rue de Richelieu 2nd arr 75002 Paris France,48.8672474,2.33738,8.78846153846,26,9.22222222222
+227887,InterContinental Paris Avenue Marceau,64 Avenue Marceau 8th arr 75008 Paris France,48.8706373,2.2982095,7.27111111111,45,8.75757575758
+227932,Mercure Tour Eiffel Grenelle,64 Boulevard de Grenelle 15th arr 75015 Paris France,48.850448,2.2928845,8.28461538462,39,8.33333333333
+227971,Mercure Paris Bastille Saint Antoine,64 Rue Crozatier 12th arr 75012 Paris France,48.849574,2.3798518,7.27727272727,22,9.42222222222
+227993,Boutique H tel Konfidentiel,64 Rue de l Arbre Sec 1st arr 75001 Paris France,48.8612535,2.3426256,8.7,19,9.53333333333
+229137,R Kipling by Happyculture,65 rue Blanche 9th arr 75009 Paris France,48.8820838,2.3315849,8.49166666667,84,7.7037037037
+229221,Hotel Des Saints Peres Esprit de France,65 rue des Saints P res 6th arr 75006 Paris France,48.8534026,2.3299043,9.11333333333,105,8.27777777778
+229326,Best Western Hotel Montmartre Sacr Coeur,66 Boulevard Barb s 18th arr 75018 Paris France,48.888539,2.3498459,7.03684210526,266,7.57413793103
+230360,H tel Jos phine by Happyculture,67 rue Blanche 9th arr 75009 Paris France,48.8823141,2.3316688,8.13684210526,76,8.01515151515
+231734,Hotel Le Chat Noir,68 Boulevard De Clichy 18th arr 75018 Paris France,48.8836255,2.3340538,8.21085271318,129,8.17586206897
+232227,Mercure Vaugirard Paris Porte De Versailles,69 Boulevard Victor 15th arr 75015 Paris France,48.8330649,2.2879617,8.55283018868,106,8.41111111111
+233504,H tel Bel Ami,7 11 Rue Saint Benoit 6th arr 75006 Paris France,48.8550298,2.3332104,8.81142857143,105,8.34772727273
+234491,Hotel de Nell,7 9 rue du Conservatoire 9th arr 75009 Paris France,48.8732788,2.3466576,8.84197530864,81,9.31219512195
+234572,9Hotel Republique,7 9 Rue Pierre Chausson 10th arr 75010 Paris France,48.8708419,2.3605864,8.74371584699,183,8.903
+234755,Goralska R sidences H tel Paris Bastille,7 Boulevard Bourdon 4th arr 75004 Paris France,48.8482842,2.3657251,9.45833333333,24,9.31764705882
+239267,H tel Baume,7 rue Casimir Delavigne 6th arr 75006 Paris France,48.8501522,2.3392782,9.24090909091,176,8.03636363636
+239443,Hotel West End,7 rue Cl ment Marot 8th arr 75008 Paris France,48.8671391,2.3038447,8.91860465116,129,8.60632911392
+239572,Arioso,7 rue d Argenson 8th arr 75008 Paris France,48.8746066,2.3167195,8.32105263158,38,8.49677419355
+239610,H tel Lancaster Paris Champs Elys es,7 rue de Berri 8th arr 75008 Paris France,48.8723438,2.3033378,9.05,80,8.49696969697
+239690,Melia Paris Notre Dame,7 Rue De L h tel Colbert 5th arr 75005 Paris France,48.8515198,2.3486511,8.60740740741,54,8.85625
+239744,Hotel Mademoiselle,7 Rue des Petits H tels 10th arr 75010 Paris France,48.8772493,2.3543043,8.57711442786,201,8.6368
+239945,Hotel Les Bains Paris,7 Rue Du Bourg L abb 3rd arr 75003 Paris France,48.863828,2.3519345,8.92857142857,35,8.87222222222
+239980,Hotel Ares Eiffel,7 rue du G n ral de Larminat 15th arr 75015 Paris France,48.8503276,2.2982022,8.95801886792,212,8.47475728155
+240192,Francois 1er,7 Rue Magellan 8th arr 75008 Paris France,48.8701887,2.2997281,8.73382352941,136,8.6417721519
+240328,H tel Montmartre Mon Amour,7 Rue Paul Albert 18th arr 75018 Paris France,48.886687,2.3449332,8.04444444444,63,8.18333333333
+240391,Hotel Monceau Wagram,7 Rue Rennequin 17th arr 75017 Paris France,48.8808779,2.2989756,7.96454545455,110,7.77090909091
+241075,Paris Marriott Champs Elysees Hotel,70 avenue des Champs Elysees 8th arr 75008 Paris France,48.8711365,2.3050482,7.83936170213,94,7.96627906977
+241583,H tel Exquis by Elegancia,71 Rue de Charonne 11th arr 75011 Paris France,48.8536854,2.3805796,9.07006369427,157,8.43965517241
+242168,Les Jardins Du Marais,74 rue Amelot 11th arr 75011 Paris France,48.8605219,2.3680239,7.89871794872,156,8.48765432099
+245158,Radisson Blu Champs Elys es Paris,78 Bis Avenue Marceau 8th arr 75008 Paris France,48.8719212,2.2971404,7.38421052632,152,7.42474226804
+245310,Hotel Eiffel Blomet,78 Rue Blomet 15th arr 75015 Paris France,48.8416787,2.3022862,9.64666666667,15,8.78333333333
+245325,Holiday Inn Paris Gare Montparnasse,79 81 avenue du Maine 14th arr 75014 Paris France,48.8382916,2.3230188,7.21178247734,331,7.97462686567
+245656,H tel Thoumieux,79 rue Saint Dominique 7th arr 75007 Paris France,48.8595985,2.3088076,9.1,37,8.66875
+246497,Auteuil Tour Eiffel,8 10 Rue F licien David 16th arr 75016 Paris France,48.8506499,2.2750873,7.10510204082,196,8.0776119403
+247299,Derby Alma,8 Avenue Rapp 7th arr 75007 Paris France,48.8605031,2.3006606,9.05357142857,140,8.60945945946
+247559,Mercure Paris Gobelins Place d Italie,8 bis Avenue de la Soeur Rosalie 13th arr 75013 Paris France,48.8321231,2.3536172,7.77916666667,24,7.33125
+247583,H tel Original Paris,8 Boulevard Beaumarchais 11th arr 75011 Paris France,48.8546989,2.3691899,8.94,30,8.83333333333
+249541,Novotel Paris Les Halles,8 Place Marguerite de Navarre 1st arr 75001 Paris France,48.8607299,2.3465326,8.42810707457,523,8.34
+250064,Melia Paris Vendome,8 Rue Cambon 1st arr 75001 Paris France,48.8668228,2.3257729,8.29803921569,51,8.54444444444
+250115,Chambiges Elys es,8 rue Chambiges 8th arr 75008 Paris France,48.8668048,2.3039465,8.91398963731,193,8.87786885246
+250308,MARQUIS Faubourg St Honor Relais Ch teaux,8 rue d Anjou 8th arr 75008 Paris France,48.8698184,2.3208729,7.73076923077,13,9.73
+250321,H tel Le Bellechasse Saint Germain,8 Rue De Bellechasse 7th arr 75007 Paris France,48.8597024,2.3239701,8.8,71,8.57090909091
+250392,Hotel Verneuil Saint Germain,8 rue de Verneuil 7th arr 75007 Paris France,48.8573706,2.3314669,8.78666666667,75,8.51944444444
+250467,Hotel Daniel Paris,8 rue Fr d ric Bastiat 8th arr 75008 Paris France,48.8728492,2.3073663,9.00833333333,12,8.52222222222
+250479,Residence Du Roy,8 Rue Francois 1Er 8th arr 75008 Paris France,48.8657687,2.3090386,8.42207207207,222,8.35
+250701,La Maison Champs Elys es,8 Rue Jean Goujon 8th arr 75008 Paris France,48.866676,2.3089908,8.78860759494,79,8.81836734694
+250780,H tel Arvor Saint Georges,8 rue Laferriere 9th arr 75009 Paris France,48.8785454,2.3384866,8.88679245283,106,8.22857142857
+252960,Le M ridien Etoile,81 boulevard Gouvion Saint Cyr 17th arr 75017 Paris France,48.8794646,2.2849548,7.92417582418,91,8.07931034483
+255024,La Clef Tour Eiffel,83 avenue Kl ber 16th arr 75016 Paris France,48.8647019,2.2886425,8.95206349206,315,9.07947368421
+256082,La Chambre du Marais,85 87 RUE DES ARCHIVES 3rd arr 75003 Paris France,48.8636168,2.3607998,9.49659090909,88,9.23333333333
+256170,Novotel Paris Centre Bercy,85 Rue De Bercy 12th arr 75012 Paris France,48.8384558,2.3805885,7.9298245614,171,8.98064516129
+256618,Hotel OFF Paris Seine,86 Quai D Austerlitz 13th arr 75013 Paris France,48.8427364,2.3672171,7.87594936709,79,9.34090909091
+256697,Snob Hotel by Elegancia,86 Rue Saint Denis 1st arr 75001 Paris France,48.8622723,2.3495707,9.13333333333,60,8.55555555556
+256757,Sofitel Paris Baltimore Tour Eiffel,88 Bis Avenue Kl ber 16th arr 75016 Paris France,48.8663089,2.289609,8.16422764228,123,8.54558823529
+257570,Best Western Premier Faubourg 88,88 rue du Faubourg Poissoni re 10th arr 75010 Paris France,48.8776756,2.3493159,8.32569832402,179,8.54777777778
+257749,Hotel De Vigny,9 11 rue Balzac 8th arr 75008 Paris France,48.8738672,2.3005894,8.04285714286,63,6.92033898305
+258956,H tel Le Relais Saint Germain,9 Carrefour de l Od on 6th arr 75006 Paris France,48.8519208,2.338878,9.2475,40,9.405
+259281,Villa Alessandra,9 Place Boulnois 17th arr 75017 Paris France,48.8794223,2.2957628,7.04615384615,26,7.63
+259307,Ibis Styles Paris Gare Saint Lazare,9 Rue de Constantinople 8th arr 75008 Paris France,48.8796596,2.3209155,7.48571428571,14,7.97272727273
+259321,Golden Tulip Opera de Noailles,9 rue de la Michodi re 2nd arr 75002 Paris France,48.8696173,2.3346428,8.87077922078,154,8.10357142857
+259475,Best Western Premier Op ra Li ge,9 Rue De Li ge 9th arr 75009 Paris France,48.8795947,2.3280695,8.90310077519,129,8.34594594595
+259604,H tel Cristal Champs Elys es,9 Rue de Washington 8th arr 75008 Paris France,48.8726814,2.3020866,8.52362204724,127,7.9358974359
+259731,Best Western Le Jardin de Cluny,9 Rue du Sommerard 5th arr 75005 Paris France,48.8497553,2.3467616,8.7475,120,8.0131147541
+259851,Le Pigalle Hotel,9 rue frochot 9th arr 75009 Paris France,48.8816073,2.3371648,8.8119047619,42,9.28214285714
+259893,Relais H tel du Vieux Paris,9 rue Git le Coeur 6th arr 75006 Paris France,48.8538608,2.3429487,9.20512820513,156,7.92857142857
+260049,Victoire Germain,9 rue Gr goire de Tours 6th arr 75006 Paris France,48.853299,2.337993,9.37358490566,53,9.144
+260102,Le Littr ,9 Rue Littr 6th arr 75006 Paris France,48.8454447,2.3242814,8.8,44,8.36216216216
+260146,Hotel Le Sainte Beuve,9 Rue Sainte Beuve 6th arr 75006 Paris France,48.8438998,2.3294858,9.04489795918,98,8.25454545455
+260244,Hotel Villa Saxe Eiffel,9 Villa de Saxe 7th arr 75007 Paris France,48.849758,2.3095213,9.025,80,8.66744186047
+260623,Holiday Inn Paris Saint Germain des Pr s,92 rue de Vaugirard 6th arr 75006 Paris France,48.846837,2.3258066,8.28846153846,234,7.78273381295
+260857,Hotel Spa La Belle Juliette,92 Rue Du Cherche Midi 6th arr 75006 Paris France,48.8474426,2.3223783,9.02816901408,71,8.64722222222
+260928,Rochester Champs Elysees,92 Rue La Boetie 8th arr 75008 Paris France,48.8724945,2.3091549,8.41140939597,149,8.65
+262003,Hotel d Orsay Esprit de France,93 Rue de Lille 7th arr 75007 Paris France,48.8603599,2.3230778,9.31990521327,211,8.63131313131
+262214,Mercure Paris Opera Louvre,95 Rue de Richelieu 2nd arr 75002 Paris France,48.8710895,2.3393461,8.05212765957,94,8.19375
+262308,La Villa des Ternes,97 avenue des Ternes 17th arr 75017 Paris France,48.8803479,2.2858242,8.96180555556,144,8.00114942529
+264896,H tel Monna Lisa Champs Elys es,97 rue La Bo tie 8th arr 75008 Paris France,48.874853,2.3245798,8.64239130435,92,8.79814814815
+264988,H tel Waldorf Trocad ro,97 rue Lauriston 16th arr 75016 Paris France,48.8672694,2.2878666,8.72027027027,74,8.19814814815
+265062,Best Western Amiral Hotel,98 Avenue d Italie 13th arr 75013 Paris France,48.8252307,2.3569005,7.29915966387,119,7.91206896552
+265181,Hotel Les Th tres,98 Rue De Clery 2nd arr 75002 Paris France,48.8694768,2.3515065,8.39918699187,123,7.81111111111
+265304,Mercure Paris 17 me Saint Lazare Monceau,99 Bis Rue De Rome 17th arr 75017 Paris France,48.8837472,2.3186342,8.23684210526,19,6.98571428571
+413840,Hotel du Louvre in the Unbound Collection by Hyatt,Place Andr Malraux 1st arr 75001 Paris France,48.8639788,2.3352615,8.27342657343,286,8.34418604651
+414126,W Paris Op ra,Place de l Op ra 4 rue Meyerbeer 9th arr 75009 Paris France,48.8719697,2.3316014,8.3075,40,8.065625
