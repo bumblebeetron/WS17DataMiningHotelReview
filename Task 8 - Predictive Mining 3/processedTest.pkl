@@ -1,0 +1,402 @@
+(lp0
+S'nothing dislike everything fine'
+p1
+aS'spa amazing quite location easily access public transport close beach'
+p2
+aS'sofa bed comfortable first night turned mattress better'
+p3
+aS'extra huge comfy bed great design hotel lots check great rooms lots use bathrooms nothing missed great bars restaurants busy fully booked book intend eating'
+p4
+aS'beautiful rooms excellent breakfast'
+p5
+aS'breakfast expensive eaten local restaurants would prefer stay hotel option cooked breakfast 12 15 would affordable also brunch menu filled range things eat preferred option'
+p6
+aS'cold room tv work efficiently dealt given another room first class service'
+p7
+aS'best hilton club lounge ever'
+p8
+aS'nice hotel central location helpful staff nice modern clean room'
+p9
+aS'moment walked overall impression welcoming staff friendly helpful told cookies delicious get eat mine room clean facilities could need going concert qe stadium dlr brilliant especially coming back half busy underground'
+p10
+aS'room touch small exterior hotel slightly putting thankfully reflective interior'
+p11
+aS'little far side street main attractions east paris e montmartre marais louvre place des vosges'
+p12
+aS'lovely hotel complaint hardness mattress'
+p13
+aS'large room quite unique'
+p14
+aS'rooms good comfortable bed hotel facilities excellent'
+p15
+aS'probably best location theatre land depends purpose visit'
+p16
+aS'3 seconds away train station centre big building rooms spacious beds comfy'
+p17
+aS'loved everything staff helpful room amazing next time visit london stopping'
+p18
+aS'good hotel would go comfortable helpful staff'
+p19
+aS'room facility noise poor insolation poor privacy room signes people occupying room old sanitary building'
+p20
+aS'amazing location staff friendly enough food restaurant lovely'
+p21
+aS'could proper hairdryer rather classic hotel bathroom machine probably issue people'
+p22
+aS'breakfast bit poor staff great accommodating friendly lovely old building needs better air con saw new air con units ready tested needs overall clean functional'
+p23
+aS'poor wifi coverage level service charge restaurant bar'
+p24
+aS'nice bar good ambience free ferry breakfast nice staff breakfast friendly efficient'
+p25
+aS'aqua facility bath working blue flashing light night asked seen nothing changed'
+p26
+aS'staff helpful friendly free parking directly outside hotel weekends free wifi'
+p27
+aS'negative'
+p28
+aS'partner chose stay night wedding staff fantastic room great breakfast world would definitely recommend others would go back'
+p29
+aS'price breakfast'
+p30
+aS'negative'
+p31
+aS'room provides different cables connect device considerable good location short walking distance underground riverbank well supermarket nice restraurant'
+p32
+aS'clean nice shower comfy bed'
+p33
+aS'location'
+p34
+aS'positive'
+p35
+aS'room 369 next lift could heard every time used reported would like move rooms response told engineer would sort engineer move contact staff room cleaned day one return 10pm wait cleaned'
+p36
+aS'happy fact checking asked pay 200 deposit taken debit card cover accidents costs using mini bar think made clear booking confirmation prepare customers compulsory staff told compulsory make deposit happened freedom choice everyone would want use mini bar ended paying 758 two nights including extra charge plan planned paying 558 would happened customer extra deposit money'
+p37
+aS'hotel excellent location worthy four star rating facilities decor good indeed staff good 16 years since last stayed quality hotel'
+p38
+aS'negative'
+p39
+aS'cheese bananas creamy rice pudding'
+p40
+aS'bed comfy'
+p41
+aS'n'
+p42
+aS'negative'
+p43
+aS'staff friendly helpful like decorated wall bedroom'
+p44
+aS'pure relaxation'
+p45
+aS'excellent receptve staff'
+p46
+aS'door banging squeaking even early hours spoiled wise good stay'
+p47
+aS'convenient location next shepherds bush market tube station h c line incredibly friendly staff'
+p48
+aS'much really perhaps bed little small'
+p49
+aS'beds really comfortable'
+p50
+aS'negative'
+p51
+aS'small bathroom'
+p52
+aS'rooms could little bigger overall good'
+p53
+aS'hotels fault everywhere around hotel closed shop anything close open weekends'
+p54
+aS'staff useless hotel room huge hole wall bathroom door close room freezing cold night'
+p55
+aS'bed extremely comfortable meant good nights sleep bathroom huge clean good range toiletries room top floor gives amazing view london skyline'
+p56
+aS'need allow guests access stairs could access stairs floor lifts take ages arrive full'
+p57
+aS'staff friendly helpful'
+p58
+aS'tea coffee facilities room apart cups kettle purchased tea local shop come savoyen 21st century'
+p59
+aS'positive'
+p60
+aS'central'
+p61
+aS'comfy beds pleasurable staff lovely clean hotel'
+p62
+aS'bengali staff member helpful friendly made stay worth catch name helpful give man raise'
+p63
+aS'location parking site view text hotel staff check ok'
+p64
+aS'maybe information leaflets places visit'
+p65
+aS'decor tired places tatty'
+p66
+aS'negative'
+p67
+aS'lovely staff helpful great breakfast perfect location'
+p68
+aS'perfect every way'
+p69
+aS'ideal location'
+p70
+aS'negative'
+p71
+aS'nice hotel way city nice staff well'
+p72
+aS'service every single member staff simply outstanding never felt welcome hotel'
+p73
+aS'negative'
+p74
+aS'nothing'
+p75
+aS'safe work properly someone come open us took hours'
+p76
+aS'friendly staff staying friends weekend room service 11pm bar hotel want drink options staff helpful asked go area man reception told us doesnt know anything interested helping maybe good business quests leisure location room old soulless needed good dusting'
+p77
+aS'worst aircon experienced gives option going 3 3 temperature temperature feeling like 40 degrees room going 37 help calling reception offered support open window breakfast silly price one expensive although advertised double bed clearly 2 mattresses covers kept falling middle'
+p78
+aS'nothing'
+p79
+aS'location'
+p80
+aS'balcony lovely room pretty'
+p81
+aS'positive'
+p82
+aS'negative'
+p83
+aS'find expensive wi fi making booking satellite tv listed even get freeview channels channels work could access movies use hdmi cable connect laptop work electric sockets room work radio work etc'
+p84
+aS'space extremely small room even extremely small bathroom carpet room outside bathroom door constantly wet area never dries'
+p85
+aS'friendly helpful staff decor throughout tram stop nearby'
+p86
+aS'convenient early morning departures st pancras kings cross'
+p87
+aS'positive'
+p88
+aS'positive'
+p89
+aS'location suited tucked away quiet corner london also pool spa'
+p90
+aS'sewage smell corridors tea coffee facilities room would great bit toilet bathroom'
+p91
+aS'downstairs bar quiet little atmosphere'
+p92
+aS'shock price blue angel cocktail 50 prices menu know bill arrived savoy cocktail served flare gold dust would order yes glad wife ordered drink wanted knew price beforehand'
+p93
+aS'negative'
+p94
+aS'position hotel'
+p95
+aS'nespresso coffee n free bottled water room comfortable little tired terms decor location perfect theatre trip'
+p96
+aS'really nice modern hotel polite staff lovely room even small'
+p97
+aS'loved room view spectacular'
+p98
+aS'negative'
+p99
+aS'early check even tho requested well advance'
+p100
+aS'dont think anything could say could better except maybe dining room little small people waiting free table'
+p101
+aS'location'
+p102
+aS'negative'
+p103
+aS'hotel comfortable well located'
+p104
+aS'cost breakfast book breakfast found lovely bistro nearby half price'
+p105
+aS'complimentary water room whole stay first night stated free cocktail card given us told cocktails notincluded could beer cava bathrobes bathroom'
+p106
+aS'negative'
+p107
+aS'breakfast selection quality could better'
+p108
+aS'breakfast lovely plenty choice concierge brilliant staff friendly helpful main hotel decor nice although sadly missed christmas decorations put left nice big bed room comfortable stay'
+p109
+aS'hotel good position although tucked away main road room clean bed comfortable iron ironing board came handy going wedding'
+p110
+aS'room bit cold would good extra blankets also find hairdryer'
+p111
+aS'stayed hotel knew expect right location us visit shows concert galleries'
+p112
+aS'negative'
+p113
+aS'everything hotel excellent bar evening breakfast morning really enjoyed stay'
+p114
+aS'decor room tired enough lighting shower cold room 3 beds one office type chair however good hair drier iron provided well decaf coffee'
+p115
+aS'rock hard beds pillows poor air conditioning'
+p116
+aS'bed comfortable hotel situated quiet location'
+p117
+aS'nothing g'
+p118
+aS'staff welcome fruit plate lighting tasteful decoration'
+p119
+aS'negative'
+p120
+aS'small hotel reception first floor secure entrance ground floor rooms nice small including large tv international channels location good stations recommend stade de france matches soundproofing road good wifi strong 10mb reliable free soft drinks minibar turndown service left sweets beer euro16 le marcel bag'
+p121
+aS'provided wifi username password supposed last one full day 1 hour wifi code longer worked'
+p122
+aS'room really comfortable breakfast lovely staff really comfortable'
+p123
+aS'needs renovation'
+p124
+aS'clean comfy'
+p125
+aS'nothing'
+p126
+aS'location bathroom designed disabled large comfy beds pillows stylish furniture'
+p127
+aS'lovely room spectacular view comfortable well appointed excellent value breakfast great would recommend stay'
+p128
+aS'negative'
+p129
+aS'breakfast hospitality comfy bed'
+p130
+aS'bathroom tiny shower head held place spun away tv difficult work breakfast cold disorganised rubbery offer tea coffee explaination things worked also clear directions find room west wing told bit walk room best views hotel really best view see picture lol also picture hallway distance lift room right end marathon length corridoor breakfast staff really friendly ones also cos used mini bar store lunch course two drinks tried charge 24 explain luckily opened sealed envelope see called reception argue toss said used anything admitted probably cos stored stuff fridge got refunded eventually though would stay also arabic guests treated differently anyone else'
+p131
+aS'nothing'
+p132
+aS'like older lady behind reception morning obviously good mood receptionist type'
+p133
+aS'amazing location'
+p134
+aS'restaurant breakfast far small amount guests hotel shower facilities guests freshen check'
+p135
+aS'issues plumbing first thing saturday morning got woken 6 banging bad plumbing system sounded like bad airlocks may well woken next door building site loud went hours rooms next door showering etc could hear whistles screeching pipes problem really let experience certainly ruined comfortable sleep much needed morning'
+p136
+aS'hotel staff reception bar dining cleaners great food good'
+p137
+aS'bed comfortable rooms good pleasant staff willing help make second visit'
+p138
+aS'room large lots space super clean'
+p139
+aS'negative'
+p140
+aS'bathroom small side'
+p141
+aS'really good location next metro 3 stops louvre 20 minute walk sacre coer 10 minute walk eiffel tower 40 minutes walk lovely bars great architecture even though main road traffic quiet wonderful restaurants nearby also'
+p142
+aS'negative'
+p143
+aS'nothing say'
+p144
+aS'made mistake booking booked twin wife man check desk helpful arranged double without fuss extra charge extremely helpful'
+p145
+aS'everything'
+p146
+aS'single room small nevertheless comfy quiet'
+p147
+aS'nothing'
+p148
+aS'nothing'
+p149
+aS'nothing'
+p150
+aS'location brilliant gym good wifi connection fast'
+p151
+aS'negative'
+p152
+aS'positive'
+p153
+aS'partner normally stay hostels absolute lap luxury bathroom incredible spent ridiculous amount time rain shower every morning beautiful bed super comfy thermostat meant could easily warm cool room overall fab stay even slightly would wanted pay centre dam tram stop literally right outside takes right centre frequent'
+p154
+aS'location room service'
+p155
+aS'room bit dowdy wash basin tap trickle water wash basin plug inoperable breakfast facilities basic'
+p156
+aS'location interior'
+p157
+aS'breakfast disappointing better premier inn coffee left lot desired'
+p158
+aS'little hot even windows open'
+p159
+aS'staff amazing catered needs questions ask already planning next trip montcalm wait'
+p160
+aS'stayed many years rooms slightly dusty staff cheery'
+p161
+aS'bathroom bit pokey'
+p162
+aS'fantastic location needs hotel needed'
+p163
+aS'nothing'
+p164
+aS'overlooking dlr soundproofing excellent would never known staff friendly allowed us check 2 hours early great location lots nice places eat nearby less busy city easy yo get town'
+p165
+aS'positive'
+p166
+aS'music around pool nearly enough sunbeds plenty room 15 20 go list 3 hours two days row music choice franks bar terrible depressing social environment feel whisper almost little uncomfortable later night social activity music anywhere nowhere go 11pm enjoy social night leave hotel unfortunately needs party place go least drinks pool music loungers removed area turned something special night hotel better older couples 50 want peace quiet day night need sunbed also 10 tiny plastic bottle water room feel value money left side assume complimentary'
+p167
+aS'friendly staff great location ideal mother safe great clean staff helpful mum robbed necklaces short distance hotel tea time'
+p168
+aS'really enjoyed staying'
+p169
+aS'lovely decor friendly staff helpful ordering taxi giving directions around paris breakfast nice'
+p170
+aS'amazing facilities attention detail lovely staff'
+p171
+aS'different age definitions children breakfast swimming pool'
+p172
+aS'pillows bulky'
+p173
+aS'area cooked breakfast included'
+p174
+aS'reception restaurant staff'
+p175
+aS'room quite small road noise little bothersome room warm arrived open window also like many snacks placed rooms'
+p176
+aS'general clean comfort'
+p177
+aS'wifi really bad phone signal inside room'
+p178
+aS'think negative things moment'
+p179
+aS'negative'
+p180
+aS'relaxed calm professional made look easy hard bit'
+p181
+aS'lovely breakfast'
+p182
+aS'good staff helpful attentive'
+p183
+aS'whole weekend fantastic experience location staff hotel superb one bucket lists things experience'
+p184
+aS'cotton buds cotton wool biscuits enough cartons milk know could asked want surfaces single room ran space like fact someone came room went evening left survey complete bbc 24hr news channel however spoil visit would go back'
+p185
+aS'room service breakfast bit disappointing take bill stay fabulous'
+p186
+aS'negative'
+p187
+aS'great location good breakfast'
+p188
+aS'modern great atmosphere bar bedrooms well furnished'
+p189
+aS'staff walking hallways noisy get good nights sleep double bed two wins pushed together gap inbetween beds'
+p190
+aS'negative'
+p191
+aS'staff attentive super flexibile accommodating'
+p192
+aS'realise restaurant got'
+p193
+aS'nothing'
+p194
+aS'positive'
+p195
+aS'bedroom warm'
+p196
+aS'restaurant service poor id brought friend try steak 7 50pm evening half menu sold'
+p197
+aS'rooms poor'
+p198
+aS'staff amazing thought everything made us feel welcomed food hotel one night infact last night food tasty wished would tired sooner'
+p199
+aS'restaurant great bit overpriced'
+p200
+a.
