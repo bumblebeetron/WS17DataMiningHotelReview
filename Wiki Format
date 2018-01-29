@@ -1,0 +1,50 @@
+==Introduction==
+	* Intro to dataset
+	* Data Types
+	* Languages
+	* Biases
+	* Geodata
+
+==Descriptive Mining Tasks==
+
+* Reviewer Score Clustering
+* Review Clustering via Similarity
+* Associate Rule Mining
+* Bivariate Anlalysis
+	* Transition
+	* Landmark
+	
+==Predictive Mining Tasks==
+
+* Feature Extraction from Text
+	* TF-IDF, 1,2,3 Shingles, n-grams
+	* Feature Selection, Select-From-Model, Variance, K-Best(chi2)
+	
+* Classification via Text Mining(Review Text)
+	* Models: Linear SVC, Logistic Regression, Neural Networks
+	* Positive/Negative Prediction
+	* Reviewer Score Classification Via Review Texts
+	
+* Fake Review Classification / Opinion Spam Detection
+	* Random Forrests
+	* Dense Neural Networks
+
+* Text Prediction
+	* HMMs
+	
+* Reviewer Score Regression Based on the whole review
+	* Random Forrests
+	* Dense Neural Networks
+	
+==Challenges / Lessons==
+
+	* Dataset Structure
+		* Combining different types of features
+		* Text Mining is NON-TRIVIAL
+		* Large Data = Large Memory
+
+	* New Technologies
+		* Python
+		* TensorFlow
+		* Google API
+		* Whatever new stuff you've learned
